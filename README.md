@@ -22,6 +22,9 @@ Here are the list :
 18. Odoo ID --> https://t.me/odooindonesia
 19. Tech In Asia --> https://t.me/TIAdevcommunity
 20. .NET --> https://t.me/dotnetusergroup
+21. Female Geek --> https://t.me/kulgramfg
+22. PHP Indonesia  --> https://telegram.me/joinchat/CSLDHD-6eZfVmTyv168IWA
+23. Pascal Indonesia --> https://t.me/PascalID
 
 
 Listed by @hendisantika34
