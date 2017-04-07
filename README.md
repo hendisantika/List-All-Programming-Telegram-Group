@@ -27,5 +27,7 @@ Here are the list :
 23. Pascal Indonesia --> https://t.me/PascalID
 
 
+PS : If you have one or know another group but not listed above. Please PM.
+
 Listed by @hendisantika34
 EMail --> hendisantika@gmail.com
