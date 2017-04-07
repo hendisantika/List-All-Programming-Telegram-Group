@@ -23,7 +23,7 @@ Here are the list :
 19. Tech In Asia --> https://t.me/TIAdevcommunity
 20. .NET --> https://t.me/dotnetusergroup
 21. Female Geek --> https://t.me/kulgramfg
-22. PHP Indonesia  --> https://telegram.me/joinchat/CSLDHD-6eZfVmTyv168IWA
+22. PHP Indonesia  --> https://t.me/PHPIDforStudent
 23. Pascal Indonesia --> https://t.me/PascalID
 
 
