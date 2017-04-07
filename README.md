@@ -4,20 +4,25 @@
 Here are the list :
 1. JVM User Group --> https://t.me/JVMUserGroup
 2. ID Dev Ops --> https://t.me/IDDevOps
-3. Python ID --> https://t.me/pythonID
-4. Python Surabaya --> https://t.me/surabayadotpy
-5. Django --> https://t.me/DjangoID
-5. Flask --> https://t.me/flaskid
-6. Swift --> https://t.me/swiftID
-7. Laravel --> https://t.me/laravelindonesia
-8. CodeIgniter --> https://t.me/codeigniterindonesia
-9. Ruby --> https://t.me/RubyID
-10. Rails --> https://t.me/RailsID
-11. Android Bandung --> https://t.me/androidDevBdg
-12. Android Semarang --> https://t.me/AndroidSemarang
-13. Sinau Dev --> https://t.me/sinaudev
-14. NodeJS --> https://t.me/nodejsid
-15. GoLang --> https://t.me/golangID
-16. Odoo ID --> https://t.me/odooindonesia
-17. Tech In Asia --> https://t.me/TIAdevcommunity
-18. .NET --> https://t.me/dotnetusergroup
+3. Loker Developer --> https://t.me/LokerDeveloper
+4. Python ID --> https://t.me/pythonID
+5. Python Surabaya --> https://t.me/surabayadotpy
+6. Django --> https://t.me/DjangoID
+7. Flask --> https://t.me/flaskid
+8. Swift --> https://t.me/swiftID
+9. Laravel --> https://t.me/laravelindonesia
+10. CodeIgniter --> https://t.me/codeigniterindonesia
+11. Ruby --> https://t.me/RubyID
+12. Rails --> https://t.me/RailsID
+13. Android Bandung --> https://t.me/androidDevBdg
+14. Android Semarang --> https://t.me/AndroidSemarang
+15. Sinau Dev --> https://t.me/sinaudev
+16. NodeJS --> https://t.me/nodejsid
+17. GoLang --> https://t.me/golangID
+18. Odoo ID --> https://t.me/odooindonesia
+19. Tech In Asia --> https://t.me/TIAdevcommunity
+20. .NET --> https://t.me/dotnetusergroup
+
+
+Listed by @hendisantika34
+EMail --> hendisantika@gmail.com
