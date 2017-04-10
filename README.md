@@ -1,39 +1,75 @@
-# List of All Programming Language on Telegram Group
+# Awesome Telegram Group
+
+A list of awesome all programming language on telegram group
+
+## List
+
+* [JVM User Group](https://t.me/JVMUserGroup)
+* [ID Dev Ops](https://t.me/IDDevOps)
+* [Loker Developer](https://t.me/LokerDeveloper)
+* [Python ID](https://t.me/pythonID)
+* [Python Surabaya](https://t.me/surabayadotpy)
+* [Django](https://t.me/DjangoID)
+* [Flask](https://t.me/flaskid)
+* [Swift](https://t.me/swiftID)
+* [Laravel](https://t.me/laravelindonesia)
+* [CodeIgniter](https://t.me/codeigniterindonesia)
+* [Ruby](https://t.me/RubyID)
+* [Rails](https://t.me/RailsID)
+* [Android Bandung](https://t.me/androidDevBdg)
+* [Android Semarang](https://t.me/AndroidSemarang)
+* [Sinau Dev](https://t.me/sinaudev)
+* [NodeJS](https://t.me/nodejsid)
+* [GoLang](https://t.me/golangID)
+* [Odoo ID](https://t.me/odooindonesia)
+* [Tech In Asia](https://t.me/TIAdevcommunity)
+* [.NET](https://t.me/dotnetusergroup)
+* [Female Geek](https://t.me/kulgramfg)
+* [PHP Indonesia](https://t.me/PHPIDforStudent)
+* [Pascal Indonesia](https://t.me/PascalID)
+* [Symfony ID](https://t.me/symfonyid)
+* [Yogya Android Community]( https://t.me/YogyakartaAndroidComunity)
+* [Sysadm Indonesia](https://t.me/idsysadm)
+* [Vue JS Indonesia](https://t.me/vuejsid)
+* [Docker.id](https://t.me/dockerid)
+
+## Contributing
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Hendi Santika](https://github.com/hendisantika) has waived all copyright and related or neighboring rights to this work.
 
 
-Here are the list :
-1. JVM User Group 	--> https://t.me/JVMUserGroup
-2. ID Dev Ops 		--> https://t.me/IDDevOps
-3. Loker Developer 	--> https://t.me/LokerDeveloper
-4. Python ID 		--> https://t.me/pythonID
-5. Python Surabaya 	--> https://t.me/surabayadotpy
-6. Django 			--> https://t.me/DjangoID
-7. Flask 			--> https://t.me/flaskid
-8. Swift 			--> https://t.me/swiftID
-9. Laravel 			--> https://t.me/laravelindonesia
-10. CodeIgniter 	--> https://t.me/codeigniterindonesia
-11. Ruby 			--> https://t.me/RubyID
-12. Rails 			--> https://t.me/RailsID
-13. Android Bandung --> https://t.me/androidDevBdg
-14. Android Semarang --> https://t.me/AndroidSemarang
-15. Sinau Dev 		--> https://t.me/sinaudev
-16. NodeJS 			--> https://t.me/nodejsid
-17. GoLang 			--> https://t.me/golangID
-18. Odoo ID 		--> https://t.me/odooindonesia
-19. Tech In Asia 	--> https://t.me/TIAdevcommunity
-20. .NET 			--> https://t.me/dotnetusergroup
-21. Female Geek 	--> https://t.me/kulgramfg
-22. PHP Indonesia  	--> https://t.me/PHPIDforStudent
-23. Pascal Indonesia --> https://t.me/PascalID
-24. Symfony ID 		--> https://t.me/symfonyid
-25. Yogya Android Community -->  https://t.me/YogyakartaAndroidComunity
-26. Sysadm Indonesia --> https://t.me/idsysadm
-27. Vue JS Indonesia --> https://t.me/vuejsid
-28. Docker.id 		--> https://t.me/dockerid
 
 
-PS : If you have one or know another group but not listed above. Please PM.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Listed by  https://t.me/hendisantika34
 
-EMail --> hendisantika@gmail.com
+EMail  hendisantika@gmail.com
