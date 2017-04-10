@@ -36,40 +36,12 @@ A list of awesome all programming language on telegram group
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
+## Listed by *Hendi Santika*
+- Email: hendisantika@gmail.com
+- Telegram: https://t.me/hendisantika34
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Hendi Santika](https://github.com/hendisantika) has waived all copyright and related or neighboring rights to this work.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Listed by  https://t.me/hendisantika34
-
-EMail  hendisantika@gmail.com
