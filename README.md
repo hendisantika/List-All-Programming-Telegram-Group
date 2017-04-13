@@ -1,6 +1,6 @@
-# Awesome Telegram Group
+# Awesome Telegram Groups
 
-A list of awesome all programming language on telegram group
+A list of awesome groups related to programming language on Telegram.
 
 ## List
 
@@ -32,6 +32,12 @@ A list of awesome all programming language on telegram group
 * _[Sysadm Indonesia](https://t.me/idsysadm)_ (Not found)
 * [Vue.js Indonesia](https://t.me/vuejsid)
 * [Docker.id](https://t.me/dockerid)
+* [Polymer Indonesia](https://t.me/polymer_id)
+* [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
+* [Electron Desktop User Group](https://t.me/electronatom)
+* [Frontend Developer Indonesia](https://t.me/FrontEndID)
+* [Big Data Indonesia](https://t.me/bigdataID)
+* [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Elixir ID](https://t.me/elixir_id)
 
 ## Contributing
