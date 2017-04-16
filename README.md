@@ -23,6 +23,7 @@ A list of awesome groups related to programming language on Telegram.
   + [JVM User Group](https://t.me/JVMUserGroup)
   
 * **JavaScript**
+  + [Angular Indonesia](https://t.me/AngularID)
   + [Nodejs Indonesia](https://t.me/nodejsid)
   + [Vue.js Indonesia](https://t.me/vuejsid)
   + [Polymer Indonesia](https://t.me/polymer_id)
