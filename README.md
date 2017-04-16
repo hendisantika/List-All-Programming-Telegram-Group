@@ -38,6 +38,7 @@ A list of awesome groups related to programming language on Telegram.
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Elixir ID](https://t.me/elixir_id)
 * [React Native ID](https://t.me/reactnative_id)
+* [Angular Indonesia](https://t.me/AngularID)
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
