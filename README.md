@@ -61,6 +61,7 @@ A list of awesome groups related to programming language on Telegram.
 
 ### Big Data
 * [Big Data Indonesia](https://t.me/bigdataID)
+* [Big Data Official Group](https://t.me/idbigdata)
 
 ### Development
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
