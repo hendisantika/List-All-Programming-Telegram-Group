@@ -36,6 +36,7 @@ A list of awesome groups related to programming language on Telegram.
 * **PHP**
   + [Laravel Indonesia](https://t.me/laravelindonesia)
   + [Symfony Framework Indonesia](https://t.me/symfonyid)
+  + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   + [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
   
 * **Python**
@@ -43,7 +44,6 @@ A list of awesome groups related to programming language on Telegram.
   + [Surabaya.py](https://t.me/surabayadotpy)
   + [Django Indonesia](https://t.me/DjangoID)
   + [Flask ID](https://t.me/flaskid)
-  + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   
 * **Ruby**
   + [Ruby Indonesia](https://t.me/RubyID)
