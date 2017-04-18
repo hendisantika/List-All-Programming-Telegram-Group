@@ -6,8 +6,10 @@ A list of awesome groups related to programming language on Telegram.
 
 ### Programming Language
 * **Android**
+  + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
   + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
+  + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [Yogyakarta Android Community](https://t.me/YogyakartaAndroidComunity)
   
 * **dotnet**
@@ -69,6 +71,15 @@ A list of awesome groups related to programming language on Telegram.
 * [Odoo-OpenERP Indonesia](https://t.me/odooindonesia)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
+
+### LINUX
+* [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
+* [BlankOn Linux](https://t.me/BlankOnLinux)
+* [Kali Linux Indonesia](https://t.me/KaliLinuxID)
+* [UbuntuJogja](https://telegram.me/joinchat/ABpxeD2F4kwRKrOb1cdl8Q)
+* [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
+* [Elementary OS Indonesia](https://t.me/elementaryID)
+* [Fedora Indonesia](https://t.me/FedoraID)
 
 ### Lowongan Kerja
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
