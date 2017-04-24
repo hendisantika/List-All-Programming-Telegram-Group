@@ -4,41 +4,85 @@ A list of awesome groups related to programming language on Telegram.
 
 ## List
 
-* [JVM User Group](https://t.me/JVMUserGroup)
+### Programming Language
+* **Android**
+  + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
+  + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
+  + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
+  + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
+  + [Yogyakarta Android Community](https://t.me/YogyakartaAndroidComunity)
+  
+* **dotnet**
+  + [dotnet.id](https://t.me/dotnetusergroup)
+
+* **Elixir**
+  + [Elixir ID](https://t.me/elixir_id)
+  
+* **Golang**
+  + [Golang Indonesia](https://t.me/golangID)
+
+* **Java**
+  + [JVM User Group](https://t.me/JVMUserGroup)
+  
+* **JavaScript**
+  + [Angular Indonesia](https://t.me/AngularID)
+  + [Nodejs Indonesia](https://t.me/nodejsid)
+  + [Vue.js Indonesia](https://t.me/vuejsid)
+  + [Polymer Indonesia](https://t.me/polymer_id)
+  + [Electron Desktop User Group](https://t.me/electronatom)
+  + [React Native ID](https://t.me/reactnative_id)
+
+* **Pascal**
+  + [Pascal Indonesia](https://t.me/PascalID)
+  
+* **PHP**
+  + [Laravel Indonesia](https://t.me/laravelindonesia)
+  + [Symfony Framework Indonesia](https://t.me/symfonyid)
+  + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
+  + [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
+  
+* **Python**
+  + [Python ID](https://t.me/pythonID)
+  + [Surabaya.py](https://t.me/surabayadotpy)
+  + [Django Indonesia](https://t.me/DjangoID)
+  + [Flask ID](https://t.me/flaskid)
+  
+* **Ruby**
+  + [Ruby Indonesia](https://t.me/RubyID)
+  + [Rails Indonesia](https://t.me/RailsID)
+
+* **Swift**
+  + [Swift Indonesia](https://t.me/swiftID)
+  
+### IOT
+* [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
+
+### DevOps
 * [IDDevOps](https://t.me/IDDevOps)
-* [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
-* [Python ID](https://t.me/pythonID)
-* [Surabaya.py](https://t.me/surabayadotpy)
-* [Django Indonesia](https://t.me/DjangoID)
-* [Flask ID](https://t.me/flaskid)
-* [Swift Indonesia](https://t.me/swiftID)
-* [Laravel Indonesia](https://t.me/laravelindonesia)
-* [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
-* [Ruby Indonesia](https://t.me/RubyID)
-* [Rails Indonesia](https://t.me/RailsID)
-* [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
-* [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
+* [Docker.id](https://t.me/dockerid)
+
+### Big Data
+* [Big Data Indonesia](https://t.me/bigdataID)
+* [Big Data Official Group](https://t.me/idbigdata)
+
+### Development
+* [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
-* [Nodejs Indonesia](https://t.me/nodejsid)
-* [Golang Indonesia](https://t.me/golangID)
 * [Odoo-OpenERP Indonesia](https://t.me/odooindonesia)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
-* [dotnet.id](https://t.me/dotnetusergroup)
-* [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
-* [Pascal Indonesia](https://t.me/PascalID)
-* [Symfony Framework Indonesia](https://t.me/symfonyid)
-* [Yogyakarta Android Community](https://t.me/YogyakartaAndroidComunity)
-* [Vue.js Indonesia](https://t.me/vuejsid)
-* [Docker.id](https://t.me/dockerid)
-* [Polymer Indonesia](https://t.me/polymer_id)
-* [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
-* [Electron Desktop User Group](https://t.me/electronatom)
-* [Frontend Developer Indonesia](https://t.me/FrontEndID)
-* [Big Data Indonesia](https://t.me/bigdataID)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
-* [Elixir ID](https://t.me/elixir_id)
-* [React Native ID](https://t.me/reactnative_id)
-* [Angular Indonesia](https://t.me/AngularID)
+
+### LINUX
+* [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
+* [BlankOn Linux](https://t.me/BlankOnLinux)
+* [Kali Linux Indonesia](https://t.me/KaliLinuxID)
+* [UbuntuJogja](https://telegram.me/joinchat/ABpxeD2F4kwRKrOb1cdl8Q)
+* [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
+* [Elementary OS Indonesia](https://t.me/elementaryID)
+* [Fedora Indonesia](https://t.me/FedoraID)
+
+### Lowongan Kerja
+* [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
