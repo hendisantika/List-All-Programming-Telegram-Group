@@ -81,6 +81,10 @@ A list of awesome groups related to programming language on Telegram.
 * [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
 * [Elementary OS Indonesia](https://t.me/elementaryID)
 * [Fedora Indonesia](https://t.me/FedoraID)
+* [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
+
+### Open Source
+* [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
 
 ### Lowongan Kerja
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
