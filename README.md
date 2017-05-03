@@ -39,6 +39,7 @@ A list of awesome groups related to programming language on Telegram.
   + [Laravel Indonesia](https://t.me/laravelindonesia)
   + [Symfony Framework Indonesia](https://t.me/symfonyid)
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
+  + [Yii Framework Indonesia](https://t.me/YiiFrameworkIndonesia)
   + [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
   
 * **Python**
