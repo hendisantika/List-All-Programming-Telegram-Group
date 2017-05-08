@@ -85,6 +85,9 @@ A list of awesome groups related to programming language on Telegram.
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
 
+### Internet
+* [Mozilla Indonesia](https://telegram.me/joinchat/Ajo_iUCyG9017TfYmzSrIA)
+
 ### Lowongan Kerja
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
 
