@@ -52,7 +52,7 @@ A list of awesome groups related to programming language on Telegram.
   + [Flask ID](https://t.me/flaskid)
   
 * **Ruby**
-  + [Ruby Indonesia](https://t.me/RubyID)
+  + [Ruby Indonesia](https://t.me/ruby_id)
   + [Rails Indonesia](https://t.me/RailsID)
 
 * **Swift**
