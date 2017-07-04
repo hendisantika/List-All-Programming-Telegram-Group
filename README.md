@@ -12,8 +12,9 @@ A list of awesome groups related to programming language on Telegram.
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [Yogyakarta Android Community](https://t.me/YogyakartaAndroidComunity)
   
-* **dotnet**
+* **Microsoft**
   + [dotnet.id](https://t.me/dotnetusergroup)
+  + [Xamarin Indonesia](https://t.me/xamarinindonesia)
 
 * **Elixir**
   + [Elixir ID](https://t.me/elixir_id)
