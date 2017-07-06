@@ -10,7 +10,6 @@ A list of awesome groups related to programming language on Telegram.
   + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
-  + [Yogyakarta Android Community](https://t.me/YogyakartaAndroidComunity)
 
 * **Microsoft**
   + [dotnet.id](https://t.me/dotnetusergroup)
