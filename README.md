@@ -72,7 +72,7 @@ A list of awesome groups related to programming language on Telegram.
 ### Development
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
-* [Odoo-OpenERP Indonesia](https://t.me/odooindonesia)
+* [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 
