@@ -35,6 +35,7 @@ A list of awesome groups related to programming language on Telegram.
   + [Polymer Indonesia](https://t.me/polymer_id)
   + [Electron Desktop User Group](https://t.me/electronatom)
   + [React Native ID](https://t.me/reactnative_id)
+  + [Ionic Indonesia](https://t.me/indonesiaionic)
 
 * **Pascal**
   + [Pascal Indonesia](https://t.me/PascalID)
@@ -58,7 +59,7 @@ A list of awesome groups related to programming language on Telegram.
 
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
-  
+    
 ### IOT
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
 
