@@ -1,6 +1,6 @@
-# Awesome Telegram Groups
+# Awesome Indonesia Telegram Groups
 
-A list of awesome groups related to programming language on Telegram.
+A list of awesome indonesia groups related to programming language on Telegram.
 
 ## List
 
