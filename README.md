@@ -98,7 +98,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Listed by *Hendi Santika*
 - Email: hendisantika@gmail.com
-- Telegram: https://t.me/hendisantika34
+- Telegram: [@hendisantika34](https://t.me/hendisantika34)
 
 ## License
 
