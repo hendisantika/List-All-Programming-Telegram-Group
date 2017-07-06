@@ -11,14 +11,14 @@ A list of awesome groups related to programming language on Telegram.
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [Yogyakarta Android Community](https://t.me/YogyakartaAndroidComunity)
-  
+
 * **Microsoft**
   + [dotnet.id](https://t.me/dotnetusergroup)
   + [Xamarin Indonesia](https://t.me/xamarinindonesia)
 
 * **Elixir**
   + [Elixir ID](https://t.me/elixir_id)
-  
+
 * **Golang**
   + [Golang Indonesia](https://t.me/golangID)
 
@@ -27,7 +27,7 @@ A list of awesome groups related to programming language on Telegram.
 
 * **Kotlin**
   + [Kotlin User Group](https://t.me/KotlinID)
-  
+
 * **JavaScript**
   + [Angular Indonesia](https://t.me/AngularID)
   + [Nodejs Indonesia](https://t.me/nodejsid)
@@ -38,27 +38,27 @@ A list of awesome groups related to programming language on Telegram.
 
 * **Pascal**
   + [Pascal Indonesia](https://t.me/PascalID)
-  
+
 * **PHP**
   + [Laravel Indonesia](https://t.me/laravelindonesia)
   + [Symfony Framework Indonesia](https://t.me/symfonyid)
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   + [Yii Framework Indonesia](https://t.me/YiiFrameworkIndonesia)
   + [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
-  
+
 * **Python**
   + [Python ID](https://t.me/pythonID)
   + [Surabaya.py](https://t.me/surabayadotpy)
   + [Django Indonesia](https://t.me/DjangoID)
   + [Flask ID](https://t.me/flaskid)
-  
+
 * **Ruby**
   + [Ruby Indonesia](https://t.me/ruby_id)
   + [Rails Indonesia](https://t.me/RailsID)
 
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
-  
+
 ### IOT
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
 
