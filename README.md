@@ -30,11 +30,12 @@ A list of awesome groups related to programming language on Telegram.
   
 * **JavaScript**
   + [Angular Indonesia](https://t.me/AngularID)
-  + [Nodejs Indonesia](https://t.me/nodejsid)
-  + [Vue.js Indonesia](https://t.me/vuejsid)
-  + [Polymer Indonesia](https://t.me/polymer_id)
   + [Electron Desktop User Group](https://t.me/electronatom)
-  + [React Native ID](https://t.me/reactnative_id)
+  + [Nodejs Indonesia](https://t.me/nodejsid)
+  + [Polymer Indonesia](https://t.me/polymer_id)
+  + [React Indonesia](https://t.me/react_id)
+  + [React Native Indonesia](https://t.me/reactnative_id)
+  + [Vue.js Indonesia](https://t.me/vuejsid)
 
 * **Pascal**
   + [Pascal Indonesia](https://t.me/PascalID)
