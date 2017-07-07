@@ -1,6 +1,6 @@
-# Awesome Telegram Groups
+# Awesome Indonesia Telegram Groups
 
-A list of awesome groups related to programming language on Telegram.
+A list of awesome indonesia groups related to programming language on Telegram.
 
 ## List
 
@@ -10,15 +10,14 @@ A list of awesome groups related to programming language on Telegram.
   + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
-  + [Yogyakarta Android Community](https://t.me/YogyakartaAndroidComunity)
-  
+
 * **Microsoft**
   + [dotnet.id](https://t.me/dotnetusergroup)
   + [Xamarin Indonesia](https://t.me/xamarinindonesia)
 
 * **Elixir**
   + [Elixir ID](https://t.me/elixir_id)
-  
+
 * **Golang**
   + [Golang Indonesia](https://t.me/golangID)
 
@@ -26,45 +25,49 @@ A list of awesome groups related to programming language on Telegram.
   + [JVM User Group](https://t.me/JVMUserGroup)
 
 * **Kotlin**
-  + [Kotlin User Group](https://t.me/KotlinID)
-  
+  + [Kotlin Indonesia](https://t.me/KotlinID)
+
 * **JavaScript**
   + [Angular Indonesia](https://t.me/AngularID)
-  + [Nodejs Indonesia](https://t.me/nodejsid)
-  + [Vue.js Indonesia](https://t.me/vuejsid)
-  + [Polymer Indonesia](https://t.me/polymer_id)
   + [Electron Desktop User Group](https://t.me/electronatom)
-  + [React Native ID](https://t.me/reactnative_id)
+  + [Nodejs Indonesia](https://t.me/nodejsid)
+  + [Polymer Indonesia](https://t.me/polymer_id)
+  + [React Indonesia](https://t.me/react_id)
+  + [React Native Indonesia](https://t.me/reactnative_id)
+  + [Vue.js Indonesia](https://t.me/vuejsid)
+  + [Ionic Indonesia](https://t.me/indonesiaionic)
+
 
 * **Pascal**
   + [Pascal Indonesia](https://t.me/PascalID)
-  
+
 * **PHP**
   + [Laravel Indonesia](https://t.me/laravelindonesia)
   + [Symfony Framework Indonesia](https://t.me/symfonyid)
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   + [Yii Framework Indonesia](https://t.me/YiiFrameworkIndonesia)
   + [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
-  
+
 * **Python**
   + [Python ID](https://t.me/pythonID)
   + [Surabaya.py](https://t.me/surabayadotpy)
   + [Django Indonesia](https://t.me/DjangoID)
   + [Flask ID](https://t.me/flaskid)
-  
+
 * **Ruby**
   + [Ruby Indonesia](https://t.me/ruby_id)
   + [Rails Indonesia](https://t.me/RailsID)
 
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
-  
+
 ### IOT
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
 
 ### DevOps
 * [IDDevOps](https://t.me/IDDevOps)
 * [Docker.id](https://t.me/dockerid)
+* [ServerLess Tech](https://t.me/ServerlessTech)
 
 ### Big Data
 * [Big Data Indonesia](https://t.me/bigdataID)
@@ -73,7 +76,7 @@ A list of awesome groups related to programming language on Telegram.
 ### Development
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
-* [Odoo-OpenERP Indonesia](https://t.me/odooindonesia)
+* [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 
@@ -98,7 +101,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Listed by *Hendi Santika*
 - Email: hendisantika@gmail.com
-- Telegram: https://t.me/hendisantika34
+- Telegram: [@hendisantika34](https://t.me/hendisantika34)
 
 ## License
 
