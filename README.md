@@ -68,9 +68,10 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Docker.id](https://t.me/dockerid)
 * [ServerLess Tech](https://t.me/ServerlessTech)
 
-### Big Data
+### Data PlayGround
 * [Big Data Indonesia](https://t.me/bigdataID)
 * [Big Data Official Group](https://t.me/idbigdata)
+* [Indonesian Scrapper Forum](https://t.me/ScrapeID)
 
 ### Development
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
