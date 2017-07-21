@@ -37,7 +37,6 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Vue.js Indonesia](https://t.me/vuejsid)
   + [Ionic Indonesia](https://t.me/indonesiaionic)
 
-
 * **Pascal**
   + [Pascal Indonesia](https://t.me/PascalID)
 
@@ -79,6 +78,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
+* [Vim Indonesia](https://t.me/VimID)
 
 ### LINUX
 * [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
