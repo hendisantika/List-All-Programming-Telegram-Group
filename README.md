@@ -12,6 +12,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
 
 * **Microsoft**
+  + [C# Indonesia](https://t.me/CSharpID)
   + [dotnet.id](https://t.me/dotnetusergroup)
   + [Xamarin Indonesia](https://t.me/xamarinindonesia)
 
