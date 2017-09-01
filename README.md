@@ -93,6 +93,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Elementary OS Indonesia](https://t.me/elementaryID)
 * [Fedora Indonesia](https://t.me/FedoraID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
+* [Linux Mint Indonesia](https://t.me/mint_id)
 
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
