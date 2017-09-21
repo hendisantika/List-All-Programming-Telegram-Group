@@ -96,6 +96,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Linux Mint Indonesia](https://t.me/mint_id)
 
+### Windows
+* [Windows 10 Community ID](https://t.me/Win10CommunityID)
+
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
 
