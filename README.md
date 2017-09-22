@@ -84,6 +84,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Vim Indonesia](https://t.me/VimID)
+* [Emacs Indonesia](https://t.me/EmacsID)
 
 ### LINUX
 * [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
