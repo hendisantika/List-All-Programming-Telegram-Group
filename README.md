@@ -84,6 +84,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Vim Indonesia](https://t.me/VimID)
+* [Emacs Indonesia](https://t.me/EmacsID)
 
 ### LINUX
 * [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
@@ -95,6 +96,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Fedora Indonesia](https://t.me/FedoraID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Linux Mint Indonesia](https://t.me/mint_id)
+* [Slackware Indonesia](https://t.ne/SlackwareID)
 
 ### Windows
 * [Windows 10 Community ID](https://t.me/Win10CommunityID)
