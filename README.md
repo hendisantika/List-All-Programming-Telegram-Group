@@ -96,6 +96,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Fedora Indonesia](https://t.me/FedoraID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Linux Mint Indonesia](https://t.me/mint_id)
+* [Slackware Indonesia](https://t.ne/SlackwareID)
 
 ### Windows
 * [Windows 10 Community ID](https://t.me/Win10CommunityID)
