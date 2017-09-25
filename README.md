@@ -102,6 +102,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Slackware Indonesia](https://t.me/SlackwareID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 
+### Security
+* [Reversing.ID](https://t.me/reversingid)
+
 ### Windows
 * [Windows 10 Community ID](https://t.me/Win10CommunityID)
 
