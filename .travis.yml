@@ -1,7 +1,7 @@
-language: ruby
-rvm:
-  - 2.4
+language: crystal
+crystal:
+  - latest
 before_script:
-  - gem install awesome_bot
+  - echo "a"
 script:
-  - awesome_bot README.md
+  - echo "b"
