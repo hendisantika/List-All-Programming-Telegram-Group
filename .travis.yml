@@ -1,5 +1,3 @@
 language: crystal
 crystal:
   - latest
-before_script:
-  - crystal spec
