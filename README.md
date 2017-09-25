@@ -6,14 +6,14 @@ A list of awesome indonesia groups related to programming language on Telegram.
 
 ### Programming Language
 * **Android**
-  + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
   + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
+  + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
 
 * **C/C++**
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
-  
+
 * **Crystal**
   + [Crystal User Group Indonesia](https://t.me/CrystalID)
 
@@ -60,8 +60,8 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Surabaya.py](https://t.me/surabayadotpy)
 
 * **Ruby**
-  + [Ruby Indonesia](https://t.me/ruby_id)
   + [Rails Indonesia](https://t.me/RailsID)
+  + [Ruby Indonesia](https://t.me/ruby_id)
 
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
