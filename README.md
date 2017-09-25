@@ -99,7 +99,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
 * [Kali Linux Indonesia](https://t.me/KaliLinuxID)
 * [Linux Mint Indonesia](https://t.me/mint_id)
-* [Slackware Indonesia](https://t.ne/SlackwareID)
+* [Slackware Indonesia](https://t.me/SlackwareID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [UbuntuJogja](https://telegram.me/joinchat/ABpxeD2F4kwRKrOb1cdl8Q)
 
