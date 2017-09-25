@@ -11,7 +11,7 @@ describe "List All Programming Telegram Group" do
   end
 
   it "has telegram references t" do
-    readme.refs(/t\.com/).each do |ref|
+    readme.refs(/t/).each do |ref|
       uri = URI.parse(ref)
       uri.scheme.should eq "https"
       uri.host.should eq "t.me"
