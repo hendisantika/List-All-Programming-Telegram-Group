@@ -1,3 +1,4 @@
+# thanks veelenga
 require "spec"
 require "uri"
 require "../util/readme"
@@ -6,23 +7,14 @@ readme = Readme.new
 
 describe "List All Programming Telegram Group" do
   it "has references to awesomeness" do
-    readme.refs(/t\.com/).empty?.should be_false
+    readme.refs(/t/).empty?.should be_false
   end
 
-  it "has github references t" do
+  it "has telegram references t" do
     readme.refs(/t\.com/).each do |ref|
       uri = URI.parse(ref)
       uri.scheme.should eq "https"
-      uri.host.should eq "github.com"
-      uri.path.should_not be nil
-    end
-  end
-
-  it "has gitlab references t" do
-    readme.refs(/t/).each do |ref|
-      uri = URI.parse(ref)
-      uri.scheme.should eq "https"
-      uri.host.should eq "gitlab.com"
+      uri.host.should eq "t.me"
       uri.path.should_not be nil
     end
   end
