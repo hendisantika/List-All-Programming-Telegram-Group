@@ -108,6 +108,11 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### Windows
 * [Windows 10 Community ID](https://t.me/Win10CommunityID)
 
+### Tentang Telegram
+* [Tentang Telegram](https://t.me/tentangtelegram)
+* [Telegram beta](https://t.me/tgbeta)
+* [Telegram Themes](https://t.me/themeschannel)
+
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
 
