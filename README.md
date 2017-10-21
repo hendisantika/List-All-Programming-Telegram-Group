@@ -104,6 +104,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 
 ### Security
 * [Reversing.ID](https://t.me/reversingid)
+* [@ForensicaID](https://t.m/@ForensicaID)
 
 ### Windows
 * [Windows 10 Community ID](https://t.me/Win10CommunityID)
