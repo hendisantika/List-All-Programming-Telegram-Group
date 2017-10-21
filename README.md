@@ -62,6 +62,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * **Ruby**
   + [Rails Indonesia](https://t.me/RailsID)
   + [Ruby Indonesia](https://t.me/ruby_id)
+  + [Ruby](https://t.me/rubyata)
 
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
