@@ -23,6 +23,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * **Golang**
   + [Golang Indonesia](https://t.me/golangID)
 
+* **Haskell**
+  + [Haskell ID](https://t.me/haskell_id)
+
 * **Java**
   + [JVM User Group](https://t.me/JVMUserGroup)
 
