@@ -90,7 +90,6 @@ A list of awesome indonesia groups related to programming language on Telegram.
 
 ### Development
 * [Belajar HTML](https://t.me/belajarhtmlcss)
-* [Emacs Indonesia](https://t.me/EmacsID)
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
