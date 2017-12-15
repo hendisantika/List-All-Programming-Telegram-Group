@@ -95,6 +95,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Belajar HTML](https://t.me/belajarhtmlcss)
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
+* [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
 * [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
