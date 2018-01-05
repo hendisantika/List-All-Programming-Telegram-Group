@@ -47,8 +47,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [C# Indonesia](https://t.me/idcsharp)
   + [Xamarin Indonesia](https://t.me/xamarinindonesia)
   
-* **Pascal**
+* **Pascal - Delphi**
   + [Pascal Indonesia](https://t.me/PascalID)
+  + [Kelompok Penggemar Pemrograman Delphi Indonesia](https://t.me/kppdi)
 
 * **PHP**
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
@@ -100,6 +101,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Vim Indonesia](https://t.me/VimID)
+* [Surabaya Dev](https://t.me/surabayadev)
 
 ### LINUX
 * [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
