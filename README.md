@@ -52,6 +52,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Kelompok Penggemar Pemrograman Delphi Indonesia](https://t.me/kppdi)
 
 * **PHP**
+  + [WPDEV-ID](https://t.me/wpdevid)
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   + [Laravel Indonesia](https://t.me/laravelindonesia)
   + [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
