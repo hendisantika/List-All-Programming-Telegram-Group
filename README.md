@@ -47,8 +47,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [C# Indonesia](https://t.me/idcsharp)
   + [Xamarin Indonesia](https://t.me/xamarinindonesia)
   
-* **Pascal**
+* **Pascal - Delphi**
   + [Pascal Indonesia](https://t.me/PascalID)
+  + [Kelompok Penggemar Pemrograman Delphi Indonesia](https://t.me/kppdi)
 
 * **PHP**
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
@@ -82,6 +83,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [IDDevOps](https://t.me/IDDevOps)
 * [ServerLess Tech](https://t.me/ServerlessTech)
 
+### SQA
+* [Indonesian Software Quality Assurace](https://t.me/sqa_id)
+
 ### Data PlayGround
 * [Big Data Indonesia](https://t.me/bigdataID)
 * [Big Data Official Group](https://t.me/idbigdata)
@@ -92,11 +96,14 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Belajar HTML](https://t.me/belajarhtmlcss)
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
+* [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
 * [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Vim Indonesia](https://t.me/VimID)
-* [CirebonDev](https://t.me/programmingCrb)
+* [Surabaya Dev](https://t.me/surabayadev)
+* [CirebonDev](https://t.me/crbdev)
+
 
 ### LINUX
 * [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
