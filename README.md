@@ -53,6 +53,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [dotnet.id](https://t.me/dotnetusergroup)
   + [C# Indonesia](https://t.me/idcsharp)
   + [Xamarin Indonesia](https://t.me/xamarinindonesia)
+  + [SQL Server ID](https://t.me/SQLSrvID)
   
 * **Pascal - Delphi**
   + [Pascal Indonesia](https://t.me/PascalID)
@@ -96,6 +97,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### Data PlayGround
 * [Big Data Indonesia](https://t.me/bigdataID)
 * [Big Data Official Group](https://t.me/idbigdata)
+* [[Block Chain Indonesia](https://t.me/blockChain_ID)
 * [Machine Learning Indonesia](https://t.me/machinelearningid)
 * [ScrapeID](https://t.me/ScrapeID)
 
@@ -128,7 +130,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [@ForensicaID](https://t.m/@ForensicaID)
 
 ### Windows
-* [Windows 10 Community ID](https://t.me/Win10CommunityID)
+* [Windows 10 Community ID](https://t.me/WinTenGroup)
 
 ### Tentang Telegram
 * [Tentang Telegram](https://t.me/tentangtelegram)
