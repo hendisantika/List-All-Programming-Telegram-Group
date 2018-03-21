@@ -41,6 +41,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Electron Desktop User Group](https://t.me/electronatom)
   + [Ionic Indonesia](https://t.me/indonesiaionic)
   + [Nodejs Indonesia](https://t.me/nodejsid)
+  + [NuxtJs Indonesia](https://t.me/nuxtjsid)
   + [Polymer Indonesia](https://t.me/polymer_id)
   + [React Indonesia](https://t.me/react_id)
   + [React Native Indonesia](https://t.me/reactnative_id)
