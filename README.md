@@ -97,7 +97,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### Data PlayGround
 * [Big Data Indonesia](https://t.me/bigdataID)
 * [Big Data Official Group](https://t.me/idbigdata)
-* [[Block Chain Indonesia](https://t.me/blockChain_ID)
+* [Block Chain Indonesia](https://t.me/blockChain_ID)
 * [Machine Learning Indonesia](https://t.me/machinelearningid)
 * [ScrapeID](https://t.me/ScrapeID)
 
