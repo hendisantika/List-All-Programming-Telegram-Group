@@ -127,6 +127,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 
 ### Security
+* [Pentester Indonesia](https://t.me/PentesterIndonesia)
 * [Reversing.ID](https://t.me/reversingid)
 * [@ForensicaID](https://t.m/@ForensicaID)
 
