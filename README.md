@@ -64,6 +64,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   + [Laravel Indonesia](https://t.me/laravelindonesia)
   + [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
+  + [PHP Indonesia Jogloraya](https://t.me/phpjogloraya)
   + [Symfony Framework Indonesia](https://t.me/symfonyid)
   + [Yii Framework Indonesia](https://t.me/YiiFrameworkIndonesia)
 
@@ -113,7 +114,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Vim Indonesia](https://t.me/VimID)
 * [Surabaya Dev](https://t.me/surabayadev)
 * [CirebonDev](https://t.me/crbdev)
-
+* [Femalegeek](https://t.me/femalegeek)
 
 ### LINUX
 * [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
@@ -125,6 +126,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Linux Mint Indonesia](https://t.me/mint_id)
 * [Slackware Indonesia](https://t.me/SlackwareID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
+* [UbuntuJogja](https://t.me/joinchat/ABpxeD2F4kzw-ycLcj9jaQ)
 
 ### Security
 * [Pentester Indonesia](https://t.me/PentesterIndonesia)
