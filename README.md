@@ -46,6 +46,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [React Indonesia](https://t.me/react_id)
   + [React Native Indonesia](https://t.me/reactnative_id)
   + [Vue.js Indonesia](https://t.me/vuejsid)
+  + [PekanbaruJS](https://t.me/pekanbarujs)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
