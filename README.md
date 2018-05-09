@@ -122,6 +122,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Arch Linux Indonesia](https://t.me/ArchLinuxID)
 * [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
 * [BlankOn Linux](https://t.me/BlankOnLinux)
+* [CentOS.ID](https://t.me/centosID)
 * [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
 * [Elementary OS Indonesia](https://t.me/elementaryID)
 * [Fedora Indonesia](https://t.me/FedoraID)
@@ -129,10 +130,14 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Kali Linux Indonesia](https://t.me/KaliLinuxID)
 * [Linux Mint Indonesia](https://t.me/mint_id)
 * [Manjaro Indonesia](https://t.me/manjaroID)
+* [openSUSE Indonesia](https://t.me/openSUSE_ID)
 * [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
 * [Slackware Indonesia](https://t.me/SlackwareID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Ubuntu Indonesia](https://t.me/ubuntu_id)
+
+### BSD
+* [FreeBSD Indonesia](https://t.me/freebsdid)
 
 ### Security
 * [Pentester Indonesia](https://t.me/PentesterIndonesia)
