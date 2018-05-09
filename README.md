@@ -120,8 +120,10 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Femalegeek](https://t.me/femalegeek)
 
 ### LINUX
+
 * [Arch Linux Indonesia](https://t.me/ArchLinuxID)
 * [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
+* [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
 * [BlankOn Linux](https://t.me/BlankOnLinux)
 * [CentOS.ID](https://t.me/centosID)
 * [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
