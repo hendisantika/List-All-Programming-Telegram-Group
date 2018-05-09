@@ -37,6 +37,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [JVM User Group](https://t.me/JVMUserGroup)
 
 * **JavaScript**
+  + [Javascript Indonesia](https://t.me/js_id)
   + [Angular Indonesia](https://t.me/AngularID)
   + [Electron Desktop User Group](https://t.me/electronatom)
   + [Ionic Indonesia](https://t.me/indonesiaionic)
@@ -118,6 +119,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 
 ### LINUX
 * [Belajar GNU/Linux Indonesia ](https://t.me/GNULinuxIndonesia)
+* [Ubuntu Indonesia](https://t.me/ubuntu_id)
 * [BlankOn Linux](https://t.me/BlankOnLinux)
 * [Elementary OS Indonesia](https://t.me/elementaryID)
 * [Fedora Indonesia](https://t.me/FedoraID)
