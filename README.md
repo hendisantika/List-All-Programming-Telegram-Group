@@ -41,6 +41,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Electron Desktop User Group](https://t.me/electronatom)
   + [Ionic Indonesia](https://t.me/indonesiaionic)
   + [Javascript Indonesia](https://t.me/js_id)
+  + [Semarang JS](https://t.me/SemarangJS)
   + [Nodejs Indonesia](https://t.me/nodejsid)
   + [NuxtJs Indonesia](https://t.me/nuxtjsid)
   + [Polymer Indonesia](https://t.me/polymer_id)
@@ -117,6 +118,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Vim Indonesia](https://t.me/VimID)
 * [Surabaya Dev](https://t.me/surabayadev)
+* [Programmer Semarang Raya](https://t.me/programersemarangraya)
 * [CirebonDev](https://t.me/crbdev)
 * [Femalegeek](https://t.me/femalegeek)
 
