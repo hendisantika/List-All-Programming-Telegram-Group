@@ -20,6 +20,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 
 * **Crystal**
   + [Crystal User Group Indonesia](https://t.me/CrystalID)
+  + [Russian-speaking Group](https://t.me/crystal_ru)
 
 * **Dart**
   + [Flutter Indonesia](https://t.me/flutter_id)
