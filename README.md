@@ -5,6 +5,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ## List
 
 ### Programming Language
+
 * **Android**
   + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
@@ -87,7 +88,6 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
 
-
 ### IOT
 * [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
@@ -122,12 +122,14 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [CirebonDev](https://t.me/crbdev)
 * [Femalegeek](https://t.me/femalegeek)
 * [Santren Koding](https://t.me/santrenkoding)
+* [Bengkel KMB](https://t.me/kmbteam)
+* [IT Nusantara](https://t.me/ITNusantara)
+* [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
 
 ## Microservice
 * [Microservice Architecture](https://t.me/msarchitecture)
 
 ### LINUX
-
 * [Arch Linux Indonesia](https://t.me/ArchLinuxID)
 * [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
 * [BlankOn Linux](https://t.me/BlankOnLinux)
@@ -145,6 +147,10 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Ubuntu Indonesia](https://t.me/ubuntu_id)
 
+### Mikrotik
+* [MIKROTIK INDONESIA](https://t.me/MIKROTIK_INDONESIA)
+* [Mikrotik Indonesia](https://t.me/mikrotikindonesia)
+
 ### Security
 * [Pentester Indonesia](https://t.me/PentesterIndonesia)
 * [Reversing.ID](https://t.me/reversingid)
@@ -153,11 +159,22 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### Windows
 * [Windows 10 Community ID](https://t.me/WinTenGroup)
 * [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
+* [PegelWindows](https://t.me/pegelwindows)
+
+### Hackintosh
+* [HACKINTOSH](https://t.me/joinchat/AAAAAD0HCL0FkGP1Rjhi2Q)
+
+### MacOS
+* [Mac OS X ID](https://t.me/MacOSXID)
+
+### iOS
+* [iKaskus](https://t.me/ikaskus)
 
 ### Tentang Telegram
 * [Tentang Telegram](https://t.me/tentangtelegram)
 * [Telegram beta](https://t.me/tgbeta)
 * [Telegram Themes](https://t.me/themeschannel)
+* [TeleGram Android ID](https://t.me/joinchat/CnHWvkAccYb2Jc0F-xlfFw)
 
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
@@ -166,6 +183,10 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
 * [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
 * [Freelancer - Indonesia](https://t.me/freelancerID)
+
+### Startup
+* [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
+* [Cafe Startup 140315](https://t.me/cafestartup)
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
