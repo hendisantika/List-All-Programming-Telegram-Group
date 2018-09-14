@@ -126,6 +126,8 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Bengkel KMB](https://t.me/kmbteam)
 * [IT Nusantara](https://t.me/ITNusantara)
 * [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
+* [W3ID - WWWID PWA](https://t.me/wwwid_pwa)
+* [Komunitas Programmer Makassar](https://t.me/joinchat/CIBeJBFsLn0qc3Ds_Su9jg)
 
 ## Microservice
 * [Microservice Architecture](https://t.me/msarchitecture)
