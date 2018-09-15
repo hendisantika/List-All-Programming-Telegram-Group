@@ -7,7 +7,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### Programming Language
 
 * **Android**
-  + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
+  + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg){:target="_blank"}
   + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
