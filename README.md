@@ -7,14 +7,11 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### Programming Language
 
 * **Android**
-  + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
+  + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg){:target="_blank"}
   + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
-
-* **Bash**
-  + [Bash.ID](https://t.me/Bash_ID)
 
 * **C/C++**
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
@@ -49,6 +46,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [React Indonesia](https://t.me/react_id)
   + [React Native Indonesia](https://t.me/reactnative_id)
   + [Vue.js Indonesia](https://t.me/vuejsid)
+  + [Adonis.js Indonesia](https://t.me/adonisid)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
@@ -88,6 +86,13 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
 
+### DATABASE
+* **MongoDB**
+  + [MongoDB Indonesia](https://t.me/MongoDB_ID)
+  
+* **MySQL**
+  + [MySQL Indonesia](https://t.me/mysqlid)
+  
 ### IOT
 * [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
@@ -126,6 +131,8 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Bengkel KMB](https://t.me/kmbteam)
 * [IT Nusantara](https://t.me/ITNusantara)
 * [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
+* [W3ID - WWWID PWA](https://t.me/wwwid_pwa)
+* [Komunitas Programmer Makassar](https://t.me/joinchat/CIBeJBFsLn0qc3Ds_Su9jg)
 
 ## Microservice
 * [Microservice Architecture](https://t.me/msarchitecture)
