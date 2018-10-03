@@ -155,6 +155,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Ubuntu Indonesia](https://t.me/ubuntu_id)
 
+### BSD
+* [Laskar Setan Merah](https://t.me/setanmerahID)
+
 ### Mikrotik
 * [MIKROTIK INDONESIA](https://t.me/MIKROTIK_INDONESIA)
 * [Mikrotik Indonesia](https://t.me/mikrotikindonesia)
