@@ -156,7 +156,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Ubuntu Indonesia](https://t.me/ubuntu_id)
 
 ### BSD
-* [Laskar Setan Merah](https://t.me/setanmerahID)
+* [Laskar Setan Merah - Sharing All About FreeBSD](https://t.me/setanmerahID)
 
 ### Mikrotik
 * [MIKROTIK INDONESIA](https://t.me/MIKROTIK_INDONESIA)
