@@ -1,6 +1,6 @@
 # Awesome Indonesia Telegram Groups
 
-A list of awesome indonesia groups related to programming language on Telegram.
+A list of awesome Indonesia groups related to programming language on Telegram.
 
 ## List
 
@@ -89,10 +89,10 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### DATABASE
 * **MongoDB**
   + [MongoDB Indonesia](https://t.me/MongoDB_ID)
-  
+
 * **MySQL**
   + [MySQL Indonesia](https://t.me/mysqlid)
-  
+
 ### IOT
 * [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
