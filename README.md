@@ -12,6 +12,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
+  + [Android Developer Lombok](https://t.me/android_lombok)
 
 * **C/C++**
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
@@ -47,6 +48,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [React Native Indonesia](https://t.me/reactnative_id)
   + [Vue.js Indonesia](https://t.me/vuejsid)
   + [Adonis.js Indonesia](https://t.me/adonisid)
+  + [Lombok Js](https://t.me/lombokjs)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
@@ -75,6 +77,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Flask ID](https://t.me/flaskid)
   + [Python ID](https://t.me/pythonID)
   + [Surabaya.py](https://t.me/surabayadotpy)
+  + [Lombok.py](https://t.me/lombok_py)
 
 * **Ruby**
   + [Rails Indonesia](https://t.me/RailsID)
