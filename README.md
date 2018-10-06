@@ -1,6 +1,6 @@
 # Awesome Indonesia Telegram Groups
 
-A list of awesome indonesia groups related to programming language on Telegram.
+A list of awesome Indonesia groups related to programming language on Telegram.
 
 ## List
 
@@ -12,6 +12,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
+  + [Android Developer Lombok](https://t.me/android_lombok)
 
 * **C/C++**
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
@@ -47,6 +48,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [React Native Indonesia](https://t.me/reactnative_id)
   + [Vue.js Indonesia](https://t.me/vuejsid)
   + [Adonis.js Indonesia](https://t.me/adonisid)
+  + [Lombok Js](https://t.me/lombokjs)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
@@ -75,6 +77,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Flask ID](https://t.me/flaskid)
   + [Python ID](https://t.me/pythonID)
   + [Surabaya.py](https://t.me/surabayadotpy)
+  + [Lombok.py](https://t.me/lombok_py)
 
 * **Ruby**
   + [Rails Indonesia](https://t.me/RailsID)
@@ -89,10 +92,10 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### DATABASE
 * **MongoDB**
   + [MongoDB Indonesia](https://t.me/MongoDB_ID)
-  
+
 * **MySQL**
   + [MySQL Indonesia](https://t.me/mysqlid)
-  
+
 ### IOT
 * [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
@@ -154,6 +157,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Slackware Indonesia](https://t.me/SlackwareID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Ubuntu Indonesia](https://t.me/ubuntu_id)
+
+### BSD
+* [Laskar Setan Merah - Sharing All About FreeBSD](https://t.me/setanmerahID)
 
 ### Mikrotik
 * [MIKROTIK INDONESIA](https://t.me/MIKROTIK_INDONESIA)
