@@ -14,6 +14,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   + [Android Developer Lombok](https://t.me/android_lombok)
 
+* **Bash**
+  + [Bash.ID](https://t.me/bashidorg)
+
 * **C/C++**
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
 
@@ -49,6 +52,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Vue.js Indonesia](https://t.me/vuejsid)
   + [Adonis.js Indonesia](https://t.me/adonisid)
   + [Lombok Js](https://t.me/lombokjs)
+  + [Jogja Js](https://t.me/jogjajs)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
