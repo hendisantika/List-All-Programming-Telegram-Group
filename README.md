@@ -150,6 +150,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Fedora Indonesia](https://t.me/FedoraID)
 * [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
 * [Kali Linux Indonesia](https://t.me/KaliLinuxID)
+* [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
 * [Linux Mint Indonesia](https://t.me/mint_id)
 * [Manjaro Indonesia](https://t.me/manjaroID)
 * [openSUSE Indonesia](https://t.me/openSUSE_ID)
