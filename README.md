@@ -7,12 +7,15 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### Programming Language
 
 * **Android**
-  + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg){:target="_blank"}
+  + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   + [Android Developer Lombok](https://t.me/android_lombok)
+
+* **Bash**
+  + [Bash.ID](https://t.me/bashidorg)
 
 * **C/C++**
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
@@ -49,6 +52,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Vue.js Indonesia](https://t.me/vuejsid)
   + [Adonis.js Indonesia](https://t.me/adonisid)
   + [Lombok Js](https://t.me/lombokjs)
+  + [Jogja Js](https://t.me/jogjajs)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
@@ -146,10 +150,12 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [BlankOn Linux](https://t.me/BlankOnLinux)
 * [CentOS.ID](https://t.me/centosID)
 * [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
+* [Dotfiles Indonesia](https://t.me/dotfiles_id)
 * [Elementary OS Indonesia](https://t.me/elementaryID)
 * [Fedora Indonesia](https://t.me/FedoraID)
 * [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
 * [Kali Linux Indonesia](https://t.me/KaliLinuxID)
+* [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
 * [Linux Mint Indonesia](https://t.me/mint_id)
 * [Manjaro Indonesia](https://t.me/manjaroID)
 * [openSUSE Indonesia](https://t.me/openSUSE_ID)
