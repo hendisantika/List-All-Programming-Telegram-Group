@@ -203,6 +203,8 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
 * [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
 * [Freelancer - Indonesia](https://t.me/freelancerID)
+* [Rails Indonesia Loker](https://t.me/RailsID_LOKER)
+* [Ruby Indonesia Loker](https://t.me/RubyID_LOKER)
 
 ### Startup
 * [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
