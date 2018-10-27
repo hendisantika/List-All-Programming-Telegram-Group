@@ -14,6 +14,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   + [Android Developer Lombok](https://t.me/android_lombok)
 
+* **Bash**
+  + [Bash.ID](https://t.me/bashidorg)
+
 * **C/C++**
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
 
@@ -49,6 +52,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Vue.js Indonesia](https://t.me/vuejsid)
   + [Adonis.js Indonesia](https://t.me/adonisid)
   + [Lombok Js](https://t.me/lombokjs)
+  + [Jogja Js](https://t.me/jogjajs)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
@@ -152,6 +156,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Fedora Indonesia](https://t.me/FedoraID)
 * [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
 * [Kali Linux Indonesia](https://t.me/KaliLinuxID)
+* [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
 * [Linux Mint Indonesia](https://t.me/mint_id)
 * [Manjaro Indonesia](https://t.me/manjaroID)
 * [openSUSE Indonesia](https://t.me/openSUSE_ID)
@@ -199,6 +204,8 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
 * [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
 * [Freelancer - Indonesia](https://t.me/freelancerID)
+* [Rails Indonesia Loker](https://t.me/RailsID_LOKER)
+* [Ruby Indonesia Loker](https://t.me/RubyID_LOKER)
 
 ### Startup
 * [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
