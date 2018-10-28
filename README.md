@@ -199,6 +199,8 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
+* [Google Code-in Indonesia](https://t.me/gciIndonesia)
+* [Google Summer of Code Indonesia](https://t.me/gsocIndonesia)
 
 ### Lowongan Kerja
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
