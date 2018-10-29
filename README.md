@@ -18,6 +18,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Bash.ID](https://t.me/bashidorg)
 
 * **C/C++**
+  + [C/C++ Indonesia](https://t.me/CCpp_Indonesia)
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
 
 * **Crystal**
