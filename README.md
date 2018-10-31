@@ -54,6 +54,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Adonis.js Indonesia](https://t.me/adonisid)
   + [Lombok Js](https://t.me/lombokjs)
   + [Jogja Js](https://t.me/jogjajs)
+  + [Coderjs](https://t.me/joinchat/GpYOBU7NtL71-XtbwqmCjQ)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
