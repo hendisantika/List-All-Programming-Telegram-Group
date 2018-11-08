@@ -178,6 +178,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Pentester Indonesia](https://t.me/PentesterIndonesia)
 * [Reversing.ID](https://t.me/reversingid)
 * [ForensicaID](https://t.me/ForensicaID)
+* [DevSevOps Indonesia](https://t.me/DevSecOpsIndonesia)
 
 ### Windows
 * [Windows 10 Community ID](https://t.me/WinTenGroup)
