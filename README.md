@@ -13,6 +13,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   + [Android Developer Lombok](https://t.me/android_lombok)
+  + [Android Developer Medan](https://t.me/android_dev_medan)
 
 * **Bash**
   + [Bash.ID](https://t.me/bashidorg)
