@@ -57,6 +57,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Lombok Js](https://t.me/lombokjs)
   + [Jogja Js](https://t.me/jogjajs)
   + [Coderjs](https://t.me/joinchat/GpYOBU7NtL71-XtbwqmCjQ)
+  + [BaliJS](https://t.me/balijs)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
@@ -79,6 +80,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Symfony Framework Indonesia](https://t.me/symfonyid)
   + [Telegram Bot PHP - Indonesia](https://t.me/botphp)
   + [Yii Framework Indonesia](https://t.me/YiiFrameworkIndonesia)
+  + [PHPBali](https://t.me/phpbali)
 
 * **Python**
   + [Django Indonesia](https://t.me/DjangoID)
@@ -123,6 +125,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Machine Learning Indonesia](https://t.me/machinelearningid)
 * [ScrapeID](https://t.me/ScrapeID)
 * [Trading Bitcoin](https://t.me/noobitcoin)
+* [DSI Bali](https://t.me/dsibali)
 
 ### Development
 * [Bot Telegram API](https://t.me/TgBotID)
