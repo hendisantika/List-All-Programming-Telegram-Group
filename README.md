@@ -33,6 +33,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 * **Golang**
   + [Golang Indonesia](https://t.me/golangID)
+  + [Golang Surabaya](https://t.me/golangSurabaya)
 
 * **Haskell**
   + [Haskell ID](https://t.me/haskell_id)
@@ -137,6 +138,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Vim Indonesia](https://t.me/VimID)
 * [Surabaya Dev](https://t.me/surabayadev)
 * [Sidoarjo Dev](https://t.me/sidoarjodev)
+* [Gresik Dev](https://t.me/gresikdev)
 * [Programmer Semarang Raya](https://t.me/programersemarangraya)
 * [CirebonDev](https://t.me/crbdev)
 * [Femalegeek](https://t.me/femalegeek)
