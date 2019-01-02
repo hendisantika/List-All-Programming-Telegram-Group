@@ -219,6 +219,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
 * [Cafe Startup 140315](https://t.me/cafestartup)
 
+### Science
+* **Geographic Information System and Remote Sensing**
+  + [GIS Indonesia](https://t.me/gis_id)
+  
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
