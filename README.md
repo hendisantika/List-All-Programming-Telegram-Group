@@ -136,6 +136,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [Vim Indonesia](https://t.me/VimID)
+* [Emacs Indonesia](http://t.me/emacsID)
 * [Surabaya Dev](https://t.me/surabayadev)
 * [Sidoarjo Dev](https://t.me/sidoarjodev)
 * [Gresik Dev](https://t.me/gresikdev)
