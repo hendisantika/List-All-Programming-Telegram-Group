@@ -61,7 +61,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
-
+  
+* **Matlab**
+  + [MATLAB Indonesia](https://t.me/matlabid)
+  
 * **Microsoft**
   + [dotnet.id](https://t.me/dotnetusergroup)
   + [C# Indonesia](https://t.me/idcsharp)
