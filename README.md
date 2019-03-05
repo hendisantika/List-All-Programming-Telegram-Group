@@ -33,6 +33,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 * **Golang**
   + [Golang Indonesia](https://t.me/golangID)
+  + [Golang Surabaya](https://t.me/golangSurabaya)
 
 * **Haskell**
   + [Haskell ID](https://t.me/haskell_id)
@@ -137,6 +138,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Vim Indonesia](https://t.me/VimID)
 * [Surabaya Dev](https://t.me/surabayadev)
 * [Sidoarjo Dev](https://t.me/sidoarjodev)
+* [Gresik Dev](https://t.me/gresikdev)
 * [Programmer Semarang Raya](https://t.me/programersemarangraya)
 * [CirebonDev](https://t.me/crbdev)
 * [Femalegeek](https://t.me/femalegeek)
@@ -159,8 +161,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Dotfiles Indonesia](https://t.me/dotfiles_id)
 * [Elementary OS Indonesia](https://t.me/elementaryID)
 * [Fedora Indonesia](https://t.me/FedoraID)
+* [GNOME Indonesia](https://t.me/gnomeid)
 * [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
 * [Kali Linux Indonesia](https://t.me/KaliLinuxID)
+* [KDE Indonesia](https://t.me/kdeid)
 * [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
 * [Linux Mint Indonesia](https://t.me/mint_id)
 * [Manjaro Indonesia](https://t.me/manjaroID)
@@ -216,6 +220,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
 * [Cafe Startup 140315](https://t.me/cafestartup)
 
+### Science
+* **Geographic Information System and Remote Sensing**
+  + [GIS Indonesia](https://t.me/gis_id)
+  
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
