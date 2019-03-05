@@ -201,7 +201,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Tentang Telegram](https://t.me/tentangtelegram)
 * [Telegram beta](https://t.me/tgbeta)
 * [Telegram Themes](https://t.me/themeschannel)
-* [TeleGram Android ID](https://t.me/joinchat/CnHWvkAccYb2Jc0F-xlfFw)
 
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
