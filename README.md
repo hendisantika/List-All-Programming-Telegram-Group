@@ -186,7 +186,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Mikrotik Indonesia](https://t.me/mikrotikindonesia)
 
 ### Security
-* [Pentester Indonesia](https://t.me/PentesterIndonesia)
 * [Reversing.ID](https://t.me/reversingid)
 * [ForensicaID](https://t.me/ForensicaID)
 * [DevSevOps Indonesia](https://t.me/DevSecOpsIndonesia)
