@@ -16,7 +16,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Android Developer Medan](https://t.me/android_dev_medan)
 
 * **Agile**
-  + [Agile Circle Indonesia](https://t.me/agilecircleid) 
+  + [Agile Circle Indonesia](https://t.me/agilecirclesid) 
 
 * **Bash**
   + [Bash.ID](https://t.me/bashidorg)
@@ -120,6 +120,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [IDDevOps](https://t.me/IDDevOps)
 * [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
 * [ServerLess Tech](https://t.me/ServerlessTech)
+* [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
 
 ### SQA
 * [Indonesian Software Quality Assurace](https://t.me/sqa_id)
