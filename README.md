@@ -134,6 +134,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Trading Bitcoin](https://t.me/noobitcoin)
 
 ### Development
+* [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
 * [Belajar HTML](https://t.me/belajarhtmlcss)
 * [Bengkel KMB](https://t.me/kmbteam)
 * [Bot Telegram API](https://t.me/TgBotID)
@@ -141,6 +142,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Femalegeek](https://t.me/femalegeek)
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [Gresik Dev](https://t.me/gresikdev)
+* [IAM Indonesia](https://t.me/IAMIndonesia)
 * [IT Nusantara](https://t.me/ITNusantara)
 * [Komunitas Programmer Makassar](https://t.me/joinchat/CIBeJBFsLn0qc3Ds_Su9jg)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
