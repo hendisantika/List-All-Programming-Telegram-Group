@@ -160,6 +160,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [UI/X Indonesia](https://t.me/uixnusantara)
 * [Vim Indonesia](https://t.me/VimID)
 * [W3ID - WWWID PWA](https://t.me/wwwid_pwa)
+* [WordPress](https://t.me/idwordpress)
 
 ## Microservice
 * [Microservice Architecture](https://t.me/msarchitecture)
