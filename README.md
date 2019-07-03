@@ -9,14 +9,14 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **Android**
   + [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   + [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
-  + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
-  + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
-  + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   + [Android Developer Lombok](https://t.me/android_lombok)
   + [Android Developer Medan](https://t.me/android_dev_medan)
+  + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
+  + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
+  + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
 
 * **Agile**
-  + [Agile Circle Indonesia](https://t.me/agilecirclesid) 
+  + [Agile Circle Indonesia](https://t.me/agilecirclesid)
 
 * **Bash**
   + [Bash.ID](https://t.me/bashidorg)
@@ -45,36 +45,36 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [JVM User Group](https://t.me/JVMUserGroup)
 
 * **JavaScript**
+  + [Adonis.js Indonesia](https://t.me/adonisid)
   + [Angular Indonesia](https://t.me/AngularID)
+  + [Coderjs](https://t.me/joinchat/GpYOBU7NtL71-XtbwqmCjQ)
   + [Electron Desktop User Group](https://t.me/electronatom)
   + [Ionic Indonesia](https://t.me/indonesiaionic)
   + [Javascript Indonesia](https://t.me/js_id)
-  + [Semarang JS](https://t.me/SemarangJS)
+  + [Jogja Js](https://t.me/jogjajs)
+  + [Lombok Js](https://t.me/lombokjs)
   + [Nodejs Indonesia](https://t.me/nodejsid)
   + [NuxtJs Indonesia](https://t.me/nuxtjsid)
   + [Polymer Indonesia](https://t.me/polymer_id)
   + [React Indonesia](https://t.me/react_id)
   + [React Native Indonesia](https://t.me/reactnative_id)
+  + [Semarang JS](https://t.me/SemarangJS)
   + [SurabayaJs](https://t.me/surabayajs)
   + [Vue.js Indonesia](https://t.me/vuejsid)
-  + [Adonis.js Indonesia](https://t.me/adonisid)
-  + [Lombok Js](https://t.me/lombokjs)
-  + [Jogja Js](https://t.me/jogjajs)
-  + [Coderjs](https://t.me/joinchat/GpYOBU7NtL71-XtbwqmCjQ)
 
 * **Kotlin**
-  + [Kotlin Indonesia](https://t.me/KotlinID)
   + [Kotlin Cirebon](https://t.me/kotlin_crb)
+  + [Kotlin Indonesia](https://t.me/KotlinID)
 
 * **Microsoft**
-  + [dotnet.id](https://t.me/dotnetusergroup)
   + [C# Indonesia](https://t.me/idcsharp)
-  + [Xamarin Indonesia](https://t.me/xamarinindonesia)
+  + [dotnet.id](https://t.me/dotnetusergroup)
   + [SQL Server ID](https://t.me/SQLSrvID)
+  + [Xamarin Indonesia](https://t.me/xamarinindonesia)
 
 * **Pascal - Delphi**
-  + [Pascal Indonesia](https://t.me/PascalID)
   + [Kelompok Penggemar Pemrograman Delphi Indonesia](https://t.me/kppdi)
+  + [Pascal Indonesia](https://t.me/PascalID)
 
 * **PHP**
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
@@ -88,9 +88,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **Python**
   + [Django Indonesia](https://t.me/DjangoID)
   + [Flask ID](https://t.me/flaskid)
+  + [Lombok.py](https://t.me/lombok_py)
   + [Python ID](https://t.me/pythonID)
   + [Surabaya.py](https://t.me/surabayadotpy)
-  + [Lombok.py](https://t.me/lombok_py)
 
 * **Ruby**
   + [Rails Indonesia](https://t.me/RailsID)
@@ -117,11 +117,11 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
 
 ### DevOps
+* [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
 * [Docker.id](https://t.me/dockeridn)
 * [IDDevOps](https://t.me/IDDevOps)
 * [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
 * [ServerLess Tech](https://t.me/ServerlessTech)
-* [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
 
 ### SQA
 * [Indonesian Software Quality Assurace](https://t.me/sqa_id)
@@ -149,13 +149,13 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
 * [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
-* [Taman Kode-Kode](https://t.me/tamankodekode)
 * [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 * [Programmer Semarang Raya](https://t.me/programersemarangraya)
 * [Santren Koding](https://t.me/santrenkoding)
 * [Sidoarjo Dev](https://t.me/sidoarjodev)
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
 * [Surabaya Dev](https://t.me/surabayadev)
+* [Taman Kode-Kode](https://t.me/tamankodekode)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [UI/X Indonesia](https://t.me/uixnusantara)
 * [Vim Indonesia](https://t.me/VimID)
@@ -196,14 +196,15 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Mikrotik Indonesia](https://t.me/mikrotikindonesia)
 
 ### Security
-* [Reversing.ID](https://t.me/reversingid)
+* [DevSecOps Indonesia](https://t.me/DevSecOpsIndonesia)
 * [ForensicaID](https://t.me/ForensicaID)
-* [DevSevOps Indonesia](https://t.me/DevSecOpsIndonesia)
+* [Pentester Indonesia](https://t.me/PentesterIndonesia)
+* [Reversing.ID](https://t.me/reversingid)
 
 ### Windows
+* [PegelWindows](https://t.me/pegelwindows)
 * [Windows 10 Community ID](https://t.me/WinTenGroup)
 * [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
-* [PegelWindows](https://t.me/pegelwindows)
 
 ### Hackintosh
 * [HACKINTOSH](https://t.me/joinchat/AAAAAD0HCL0FkGP1Rjhi2Q)
@@ -215,28 +216,28 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [iKaskus](https://t.me/ikaskus)
 
 ### Tentang Telegram
-* [Tentang Telegram](https://t.me/tentangtelegram)
 * [Telegram beta](https://t.me/tgbeta)
 * [Telegram Themes](https://t.me/themeschannel)
+* [Tentang Telegram](https://t.me/tentangtelegram)
 
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
 
 ### Lowongan Kerja
+* [Freelancer - Indonesia](https://t.me/freelancerID)
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
 * [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
-* [Freelancer - Indonesia](https://t.me/freelancerID)
 * [Rails Indonesia Loker](https://t.me/RailsID_LOKER)
 * [Ruby Indonesia Loker](https://t.me/RubyID_LOKER)
 
 ### Startup
-* [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
 * [Cafe Startup 140315](https://t.me/cafestartup)
+* [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
 
 ### Science
 * **Geographic Information System and Remote Sensing**
   + [GIS Indonesia](https://t.me/gis_id)
-  
+
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
