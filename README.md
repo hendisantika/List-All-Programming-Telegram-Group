@@ -18,6 +18,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **Agile**
   + [Agile Circle Indonesia](https://t.me/agilecirclesid)
 
+* **Assembly**
+  + [Assembly Programming](https://t.me/AssemblyID)
+
 * **Bash**
   + [Bash.ID](https://t.me/bashidorg)
 
