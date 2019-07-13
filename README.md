@@ -56,6 +56,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Javascript Indonesia](https://t.me/js_id)
   + [Jogja Js](https://t.me/jogjajs)
   + [Lombok Js](https://t.me/lombokjs)
+  + [NativeScript ID](https://t.me/nativescript_id)
   + [Nodejs Indonesia](https://t.me/nodejsid)
   + [NuxtJs Indonesia](https://t.me/nuxtjsid)
   + [Polymer Indonesia](https://t.me/polymer_id)
