@@ -131,6 +131,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Indonesian Software Quality Assurace](https://t.me/sqa_id)
 
 ### Data PlayGround
+* [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
 * [Big Data Indonesia](https://t.me/bigdataID)
 * [Big Data Official Group](https://t.me/idbigdata)
 * [Block Chain Indonesia](https://t.me/blockChain_ID)
