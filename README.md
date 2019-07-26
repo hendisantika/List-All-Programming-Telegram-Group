@@ -71,8 +71,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Kotlin Indonesia](https://t.me/KotlinID)
 
 * **Microsoft**
+  + [.NETCore Indonesia](https://t.me/dotnetcore_id)
   + [C# Indonesia](https://t.me/idcsharp)
-  + [dotnet.id](https://t.me/dotnetusergroup)
+  + [.NET Indonesia](https://t.me/dotnetusergroup)
   + [SQL Server ID](https://t.me/SQLSrvID)
   + [Xamarin Indonesia](https://t.me/xamarinindonesia)
 
