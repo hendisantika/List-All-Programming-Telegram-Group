@@ -16,6 +16,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * **Bash**
   + [Bash.ID](https://t.me/Bash_ID)
 
+* **Bosque**
+  + [Bosque Indonesia](https://t.me/BosqueIndonesia)
+
 * **C/C++**
   + [Indonesia C/C++ Warriors](https://t.me/idcplc)
 
@@ -43,6 +46,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [Ionic Indonesia](https://t.me/indonesiaionic)
   + [Javascript Indonesia](https://t.me/js_id)
   + [Semarang JS](https://t.me/SemarangJS)
+  + [Surabaya JS](https://t.me/surabayajs)
   + [Nodejs Indonesia](https://t.me/nodejsid)
   + [NuxtJs Indonesia](https://t.me/nuxtjsid)
   + [Polymer Indonesia](https://t.me/polymer_id)
@@ -50,6 +54,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
   + [React Native Indonesia](https://t.me/reactnative_id)
   + [Vue.js Indonesia](https://t.me/vuejsid)
   + [Adonis.js Indonesia](https://t.me/adonisid)
+  + [Svelte Indonesia](https://t.me/svelte_id)
 
 * **Kotlin**
   + [Kotlin Indonesia](https://t.me/KotlinID)
