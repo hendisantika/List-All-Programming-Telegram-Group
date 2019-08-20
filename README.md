@@ -134,6 +134,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### SQA
 * [Indonesian Software Quality Assurace](https://t.me/sqa_id)
 
+### Cloud Computing Services
+* [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
+* [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
+
 ### Data PlayGround
 * [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
 * [Big Data Indonesia](https://t.me/bigdataID)
@@ -172,7 +176,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [W3ID - WWWID PWA](https://t.me/wwwid_pwa)
 * [WordPress](https://t.me/idwordpress)
 
-## Microservice
+### Microservice
 * [Microservice Architecture](https://t.me/msarchitecture)
 * [Cloud Native Indonesia](https://t.me/microserviceid)
 
