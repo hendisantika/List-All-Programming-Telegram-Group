@@ -143,6 +143,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Big Data Indonesia](https://t.me/bigdataID)
 * [Big Data Official Group](https://t.me/idbigdata)
 * [Block Chain Indonesia](https://t.me/blockChain_ID)
+* [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
 * [Machine Learning Indonesia](https://t.me/machinelearningid)
 * [ScrapeID](https://t.me/ScrapeID)
 * [Trading Bitcoin](https://t.me/noobitcoin)
