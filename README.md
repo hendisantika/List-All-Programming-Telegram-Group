@@ -94,6 +94,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Django Indonesia](https://t.me/DjangoID)
   + [Flask ID](https://t.me/flaskid)
   + [Lombok.py](https://t.me/lombok_py)
+  + [mks.py](https://t.me/mkspy)
   + [Python ID](https://t.me/pythonID)
   + [Surabaya.py](https://t.me/surabayadotpy)
 
