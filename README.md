@@ -161,7 +161,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Gresik Dev](https://t.me/gresikdev)
 * [IAM Indonesia](https://t.me/IAMIndonesia)
 * [IT Nusantara](https://t.me/ITNusantara)
-* [Komunitas Programmer Makassar](https://t.me/joinchat/CIBeJBFsLn0qc3Ds_Su9jg)
+* [Komunitas Programmer Makassar](https://t.me/joinchat/BFoMskrIx5nv9NX2Ar64ig)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
 * [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
