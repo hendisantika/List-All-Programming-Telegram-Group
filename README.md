@@ -185,6 +185,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### LINUX
 * [Arch Linux Indonesia](https://t.me/ArchLinuxID)
 * [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
+* [Bogor Developers](https://t.me/BogorDev)
 * [BlankOn Linux](https://t.me/BlankOnLinux)
 * [CentOS.ID](https://t.me/centosID)
 * [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
