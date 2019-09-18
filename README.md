@@ -153,6 +153,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
 * [Belajar HTML](https://t.me/belajarhtmlcss)
 * [Bengkel KMB](https://t.me/kmbteam)
+* [Bogor Developers](https://t.me/BogorDev)
 * [Bot Telegram API](https://t.me/TgBotID)
 * [CirebonDev](https://t.me/crbdev)
 * [Djember Dev](https://t.me/DjemberDev)
@@ -185,7 +186,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### LINUX
 * [Arch Linux Indonesia](https://t.me/ArchLinuxID)
 * [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
-* [Bogor Developers](https://t.me/BogorDev)
 * [BlankOn Linux](https://t.me/BlankOnLinux)
 * [CentOS.ID](https://t.me/centosID)
 * [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
