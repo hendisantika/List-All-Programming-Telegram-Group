@@ -46,6 +46,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 * **Java**
   + [JVM User Group](https://t.me/JVMUserGroup)
+  + [JAVA PROGRAMMERS INDONESIA](https://t.me/joinchat/L7hI_ReGSJnHKSqt6kvUTA) 
 
 * **JavaScript**
   + [Adonis.js Indonesia](https://t.me/adonisid)
