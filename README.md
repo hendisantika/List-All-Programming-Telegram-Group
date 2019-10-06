@@ -84,6 +84,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **PHP**
   + [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   + [Laravel Indonesia](https://t.me/laravelindonesia)
+  + [Laravel Semarang](https://t.me/LaravelSemarang)
   + [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
   + [PHP Indonesia Jogloraya](https://t.me/phpjogloraya)
   + [Symfony Framework Indonesia](https://t.me/symfonyid)
@@ -114,7 +115,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 * **MySQL**
   + [MySQL Indonesia](https://t.me/mysqlid)
-  
+
 * **PostgreSQL**
   + [PostgreSQL Indonesia](https://t.me/postgresql_id)
 
