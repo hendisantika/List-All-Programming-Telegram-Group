@@ -171,6 +171,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
 * [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
 * [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
+* [Pasuruan Dev](https://t.me/pasuruandev)
 * [Programmer Semarang Raya](https://t.me/programersemarangraya)
 * [Santren Koding](https://t.me/santrenkoding)
 * [Sidoarjo Dev](https://t.me/sidoarjodev)
