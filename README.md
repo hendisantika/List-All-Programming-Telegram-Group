@@ -136,6 +136,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### SQA
 * [Indonesian Software Quality Assurace](https://t.me/sqa_id)
+* [Indonesian Software Quality Assurace Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
 
 ### Cloud Computing Services
 * [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
