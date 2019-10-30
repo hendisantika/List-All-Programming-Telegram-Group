@@ -104,6 +104,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Laravel Semarang](https://t.me/LaravelSemarang)
   - [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
   - [PHP Indonesia Jogloraya](https://t.me/phpjogloraya)
+  - [PHP indonesia Kalimantan Selatan](https://t.me/phpkalsel)
   - [Symfony Framework Indonesia](https://t.me/symfonyid)
   - [Telegram Bot PHP - Indonesia](https://t.me/botphp)
   - [Yii Framework Indonesia](https://t.me/YiiFrameworkIndonesia)
