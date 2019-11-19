@@ -211,6 +211,8 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Slackware Indonesia](https://t.me/SlackwareID)
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Ubuntu Indonesia](https://t.me/ubuntu_id)
+* [Paguyuban Linux Solo](https://t.me/linuxsolo)
+* [Komunitas Linux Jember](https://t.me/linuxjember)
 
 ### BSD
 * [Laskar Setan Merah - Sharing All About FreeBSD](https://t.me/setanmerahID)
