@@ -179,6 +179,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Sidoarjo Dev](https://t.me/sidoarjodev)
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
 * [Surabaya Dev](https://t.me/surabayadev)
+* [LamonganDev](https://t.me/lamongandev)
 * [Taman Kode-Kode](https://t.me/tamankodekode)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [UI/X Indonesia](https://t.me/uixnusantara)
