@@ -160,6 +160,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Bengkel KMB](https://t.me/kmbteam)
 * [Bogor Developers](https://t.me/BogorDev)
 * [Bot Telegram API](https://t.me/TgBotID)
+* [Cilegon Developer](https://t.me/cilegondeveloper)
 * [CirebonDev](https://t.me/crbdev)
 * [Djember Dev](https://t.me/DjemberDev)
 * [Femalegeek](https://t.me/femalegeek)
