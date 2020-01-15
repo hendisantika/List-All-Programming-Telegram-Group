@@ -155,7 +155,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
 
 ### Development
-* [Komunitas IT Flobamora (NTT)](https://t.me/joinchat/HF6dYw6s-c8RFdqaI-Qj9A)
+* [Komunitas IT Flobamora (NTT)](https://t.me/it_flobamora)
 * [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
 * [Belajar HTML](https://t.me/belajarhtmlcss)
 * [Bengkel KMB](https://t.me/kmbteam)
