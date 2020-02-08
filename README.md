@@ -34,6 +34,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **Dart**
   + [dart.web](https://t.me/dart_web)
   + [Flutter Indonesia](https://t.me/flutter_id)
+  + [Flutter Makassar](https://t.me/fluttermakassar)
 
 * **Elixir**
   + [Elixir ID](https://t.me/elixir_id)
