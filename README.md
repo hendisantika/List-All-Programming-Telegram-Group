@@ -105,6 +105,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Rails Indonesia](https://t.me/RailsID)
   + [Ruby Indonesia](https://t.me/ruby_id)
 
+* **ReasonML**
+  + [ReasonML Indonesia](https://t.me/reasonML_id)
+
 * **Rust**
   + [Rust Indonesia](https://t.me/rustindonesia)
 
