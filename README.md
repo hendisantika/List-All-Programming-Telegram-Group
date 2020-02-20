@@ -99,6 +99,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Lombok.py](https://t.me/lombok_py)
   + [mks.py](https://t.me/mkspy)
   + [Python ID](https://t.me/pythonID)
+  + [Python ID Jogja](https://t.me/pyjogja)
   + [Surabaya.py](https://t.me/surabayadotpy)
 
 * **Ruby**
@@ -263,6 +264,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### Science
 * **Geographic Information System and Remote Sensing**
   + [GIS Indonesia](https://t.me/gis_id)
+  + [QGIS Indonesia](https://t.me/qgisindonesia)
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
