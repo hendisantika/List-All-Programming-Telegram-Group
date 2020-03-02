@@ -55,6 +55,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [Coderjs](https://t.me/joinchat/GpYOBU7NtL71-XtbwqmCjQ)
   + [Electron Desktop User Group](https://t.me/electronatom)
   + [Ionic Indonesia](https://t.me/indonesiaionic)
+  + [JakartaJS](https://t.me/jakartajs)
   + [Javascript Indonesia](https://t.me/js_id)
   + [Jogja Js](https://t.me/jogjajs)
   + [Lombok Js](https://t.me/lombokjs)
