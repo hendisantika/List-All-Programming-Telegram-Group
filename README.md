@@ -126,7 +126,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Surabaya Dev](https://t.me/surabayadev)
 * [Programmer Semarang Raya](https://t.me/programersemarangraya)
 * [CirebonDev](https://t.me/crbdev)
-* [Cilegon Developer](https://t.me/cilegondeveloper)
+* [Cilegon Dev](https://t.me/cilegondev)
 * [Femalegeek](https://t.me/femalegeek)
 * [Santren Koding](https://t.me/santrenkoding)
 * [Bengkel KMB](https://t.me/kmbteam)
