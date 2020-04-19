@@ -141,6 +141,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### SQA
 * [Indonesian Software Quality Assurace](https://t.me/sqa_id)
 * [Indonesian Software Quality Assurace Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
+* [Malang Quality Assurace](https://t.me/qamalang)
 
 ### Cloud Computing Services
 * [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
@@ -174,9 +175,11 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [IDStack](https://t.me/idstack)
 * [IT Nusantara](https://t.me/ITNusantara)
 * [JemberDev](https://t.me/DjemberDev)
+* [Kelas Mobile Malang](https://t.me/KelasMobileMalang)
 * [Komunitas Programmer Makassar](https://t.me/joinchat/CIBeJBFsLn0qc3Ds_Su9jg)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
+* [Ngalam Backend Community (NBC Malang)](https://kutt.it/nbcTelegramGroup)
 * [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
 * [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 * [Pasuruan Dev](https://t.me/pasuruandev)
@@ -230,6 +233,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### Security
 * [DevSecOps Indonesia](https://t.me/DevSecOpsIndonesia)
 * [ForensicaID](https://t.me/ForensicaID)
+* [Malang Hacker Link](https://t.me/joinchat/DCdoGFc4IY0p06rQfoVtcQ)
 * [Pentester Indonesia](https://t.me/PentesterIndonesia)
 * [Reversing.ID](https://t.me/reversingid)
 
