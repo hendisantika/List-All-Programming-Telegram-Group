@@ -114,6 +114,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
 
+### BLOCKCHAIN
+* [Friends with Blockchain](https://t.me/friendswithblockchain)
+
 ### DATABASE
 * **MongoDB**
   + [MongoDB Indonesia](https://t.me/MongoDB_ID)
