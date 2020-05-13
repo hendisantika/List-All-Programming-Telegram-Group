@@ -273,6 +273,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **Geographic Information System and Remote Sensing**
   + [GIS Indonesia](https://t.me/gis_id)
   + [QGIS Indonesia](https://t.me/qgisindonesia)
+  + [Leaflet.js Indonesia](https://t.me/leafletid)
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
