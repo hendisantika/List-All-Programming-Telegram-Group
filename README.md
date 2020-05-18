@@ -198,6 +198,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Vim Indonesia](https://t.me/VimID)
 * [W3ID - WWWID PWA](https://t.me/wwwid_pwa)
 * [WordPress](https://t.me/idwordpress)
+* [Channel Otodidak Pemrograman](https://t.me/otodidak_ngoding)
 
 ### Microservice
 * [Microservice Architecture](https://t.me/msarchitecture)
