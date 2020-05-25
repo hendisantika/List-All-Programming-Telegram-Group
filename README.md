@@ -257,6 +257,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
+* [OpenSID](https://t.me/joinchat/I5antRHvea8ohaU7_RsYYQ)
 
 ### Lowongan Kerja
 * [Freelancer - Indonesia](https://t.me/freelancerID)
