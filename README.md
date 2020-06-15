@@ -220,6 +220,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Kali Linux Indonesia](https://t.me/KaliLinuxID)
 * [KDE Indonesia](https://t.me/kdeid)
 * [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
+* [Komunitas Linux Jember](https://t.me/linuxjember)
 * [Linux Mint Indonesia](https://t.me/mint_id)
 * [Manjaro Indonesia](https://t.me/manjaroID)
 * [openSUSE Indonesia](https://t.me/openSUSE_ID)
@@ -228,7 +229,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Ubuntu Indonesia](https://t.me/ubuntu_id)
 * [Paguyuban Linux Solo](https://t.me/linuxsolo)
-* [Komunitas Linux Jember](https://t.me/linuxjember)
 
 ### BSD
 * [Laskar Setan Merah - Sharing All About FreeBSD](https://t.me/setanmerahID)
