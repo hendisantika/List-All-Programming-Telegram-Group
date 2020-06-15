@@ -34,6 +34,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **Dart**
   + [dart.web](https://t.me/dart_web)
   + [Flutter Indonesia](https://t.me/flutter_id)
+  + [Flutter Jakarta](https://t.me/flutter_jkt)
   + [Flutter Makassar](https://t.me/fluttermakassar)
 
 * **Elixir**
@@ -190,9 +191,11 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Santren Koding](https://t.me/santrenkoding)
 * [Sidoarjo Dev](https://t.me/sidoarjodev)
 * [SinauDev - Sinau Development](https://t.me/sinaudev)
+* [Software Engineer Indonesia](https://t.me/soft_eng_id)
 * [Surabaya Dev](https://t.me/surabayadev)
 * [LamonganDev](https://t.me/lamongandev)
 * [Taman Kode-Kode](https://t.me/tamankodekode)
+* [Tailwind Indonesia](https://t.me/TailwindID)
 * [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 * [UI/X Indonesia](https://t.me/uixnusantara)
 * [Vim Indonesia](https://t.me/VimID)
@@ -217,6 +220,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Kali Linux Indonesia](https://t.me/KaliLinuxID)
 * [KDE Indonesia](https://t.me/kdeid)
 * [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
+* [Komunitas Linux Jember](https://t.me/linuxjember)
 * [Linux Mint Indonesia](https://t.me/mint_id)
 * [Manjaro Indonesia](https://t.me/manjaroID)
 * [openSUSE Indonesia](https://t.me/openSUSE_ID)
@@ -225,7 +229,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 * [Ubuntu Indonesia](https://t.me/ubuntu_id)
 * [Paguyuban Linux Solo](https://t.me/linuxsolo)
-* [Komunitas Linux Jember](https://t.me/linuxjember)
 
 ### BSD
 * [Laskar Setan Merah - Sharing All About FreeBSD](https://t.me/setanmerahID)
