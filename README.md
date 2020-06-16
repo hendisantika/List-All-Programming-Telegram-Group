@@ -14,6 +14,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   + [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
+  + [Source Code Android](https://t.me/source_code_android)
 
 * **Agile**
   + [Agile Circle Indonesia](https://t.me/agilecirclesid)
@@ -263,14 +264,20 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Lowongan Kerja
 * [Freelancer - Indonesia](https://t.me/freelancerID)
+* [Freelance Project IT](https://t.me/freelance_01)
 * [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
+* [Loker Jakarta](https://t.me/loker_jakarta)
 * [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
 * [Rails Indonesia Loker](https://t.me/RailsID_LOKER)
 * [Ruby Indonesia Loker](https://t.me/RubyID_LOKER)
 
+### Game Development
+* [Developer Muda Unity](https://t.me/devmudaunity)
+
 ### Startup
 * [Cafe Startup 140315](https://t.me/cafestartup)
 * [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
+* [Startup Weekend Indonesia](https://t.me/startupweekendindonesia)
 
 ### Science
 * **Geographic Information System and Remote Sensing**
