@@ -245,7 +245,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Windows
 * [PegelWindows](https://t.me/pegelwindows)
-* [Windows 10 Community ID](https://t.me/WinTeroup)
+* [Windows 10 Community ID](https://t.me/WinTenGroup)
 * [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
 
 ### MacOS
