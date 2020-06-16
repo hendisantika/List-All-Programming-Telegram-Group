@@ -248,7 +248,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
 
 ### MacOS
-* [Mac OS X ID](https://t.me/MacOSXID)
+* [Mac OS X ID](https://t.me/MacOSXIDGroup)
 
 ### iOS
 * [iKaskus](https://t.me/ikaskus)
