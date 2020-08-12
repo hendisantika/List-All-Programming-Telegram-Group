@@ -119,6 +119,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 * **Typescript**
   + [Typescript Indonesia](https://t.me/TypescriptIndonesia)
+  
+   * **SAP ABAP Indonesia**
+  + [SAP-ABAP Indonesia](https://t.me/sapabapindonesia) 
 
 ### BLOCKCHAIN
 * [Friends with Blockchain](https://t.me/friendswithblockchain)
