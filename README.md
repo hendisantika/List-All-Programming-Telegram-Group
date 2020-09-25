@@ -184,6 +184,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [CirebonDev](https://t.me/crbdev)
 * [Pecinta CSS Tools Indonesia](https://t.me/css_tools_id)
 * [Femalegeek](https://t.me/femalegeek)
+* [Free Kelas Github](https://t.me/freekelasgithub)
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [Gresik Dev](https://t.me/gresikdev)
 * [IAM Indonesia](https://t.me/IAMIndonesia)
