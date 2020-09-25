@@ -176,6 +176,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### Development
 * [Aceh InfoTech](https://t.me/AcehInfoTech)
 * [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
+* [Belajar Golang MariaDB](https://t.me/BelajarGolangMariaDB)
 * [Belajar HTML](https://t.me/belajarhtmlcss)
 * [Bengkel KMB](https://t.me/kmbteam)
 * [Bogor Developers](https://t.me/BogorDev)
