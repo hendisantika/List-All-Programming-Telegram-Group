@@ -89,6 +89,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   + [.NET Indonesia](https://t.me/dotnetusergroup)
   + [SQL Server Indonesia](https://t.me/sqlserverid)
   + [Xamarin Indonesia](https://t.me/xamarinindonesia)
+  + [Blazor Indonesia](https://t.me/blazorid)
 
 * **Pascal - Delphi**
   + [Kelompok Penggemar Pemrograman Delphi Indonesia](https://t.me/kppdi)
