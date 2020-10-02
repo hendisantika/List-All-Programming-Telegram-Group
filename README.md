@@ -251,6 +251,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [W3ID - WWWID PWA](https://t.me/wwwid_pwa)
 - [WordPress](https://t.me/idwordpress)
 - [Channel Otodidak Pemrograman](https://t.me/otodidak_ngoding)
+- [Ngalam Backend Community](https://t.me/joinchat/Cqkpa1liEmG0UoAiM2gCRg)
 
 ### Microservice
 
@@ -309,6 +310,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### iOS
 
 - [iKaskus](https://t.me/ikaskus)
+- [iNitial E](http://t.me/initialestore)
 
 ### Tentang Telegram
 
