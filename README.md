@@ -149,7 +149,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### IOT
 * [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
-* [Lombok IOT](https://t.me/lombokiot)
 
 ### DevOps
 * [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
