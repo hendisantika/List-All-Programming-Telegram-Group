@@ -174,6 +174,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
 * [Data Scientist Indonesia](https://t.me/datascienceindonesia)
 * [Machine Learning Indonesia](https://t.me/machinelearningid)
+* [Machine Learning Lombok](https://t.me/machinelearninglombok)
 * [ScrapeID](https://t.me/ScrapeID)
 * [Trading Bitcoin](https://t.me/noobitcoin)
 * [Natural Language ID](https://t.me/nlp_lounge)
