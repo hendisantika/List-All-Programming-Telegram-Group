@@ -296,6 +296,8 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [DevSecOps Indonesia](https://t.me/DevSecOpsIndonesia)
 - [ForensicaID](https://t.me/ForensicaID)
 - [Reversing.ID](https://t.me/reversingid)
+- [Orang Siber Indonesia](https://t.me/orangsiber)
+- [IT SECURITY INDONESIA](https://t.me/itsecurityindonesia)
 
 ### Windows
 
@@ -310,6 +312,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### iOS
 
 - [iKaskus](https://t.me/ikaskus)
+- [iNitial E](http://t.me/initialestore)
 
 ### Tentang Telegram
 
