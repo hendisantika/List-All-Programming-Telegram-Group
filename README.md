@@ -223,6 +223,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Gresik Dev](https://t.me/gresikdev)
 - [IAM Indonesia](https://t.me/IAMIndonesia)
 - [IDStack](https://t.me/idstack)
+- [Info Event Teknologi](https://t.me/eventteknologi)
 - [IT Nusantara](https://t.me/ITNusantara)
 - [JemberDev](https://t.me/DjemberDev)
 - [Kelas Mobile Malang](https://t.me/KelasMobileMalang)
