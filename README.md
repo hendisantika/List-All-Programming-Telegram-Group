@@ -10,11 +10,14 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
   - [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   - [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
+  - [AEJ (Android Enthusiast Jakarta)](https://t.me/joinchat/Jua28kNEkcXkzYqM6uvjHA)
+  - [Android Developer Kalimantan Selatan](https://t.me/androiddevkalsel)
   - [Android Developer Lombok](https://t.me/android_lombok)
   - [Android Developer Medan](https://t.me/android_dev_medan)
   - [Android - Teknorial.com](https://t.me/teknorialcom)
   - [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   - [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
+  - [Kelas Mobile Malang](https://t.me/KelasMobileMalang)
   - [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   - [Source Code Android](https://t.me/source_code_android)
 
