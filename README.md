@@ -194,7 +194,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### Data PlayGround
 
 - [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
-- [Big Data Indonesia](https://t.me/bigdataID)
+- [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
 - [Big Data Official Group](https://t.me/idbigdata)
 - [Block Chain Indonesia](https://t.me/blockChain_ID)
 - [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
@@ -203,7 +203,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [ScrapeID](https://t.me/ScrapeID)
 - [Trading Bitcoin](https://t.me/noobitcoin)
 - [Natural Language ID](https://t.me/nlp_lounge)
-- [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
+- [TensorFlow Indonesia](https://t.me/tensorflowid)
 
 ### Development
 
@@ -227,6 +227,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [IT Nusantara](https://t.me/ITNusantara)
 - [JemberDev](https://t.me/DjemberDev)
 - [Kelas Mobile Malang](https://t.me/KelasMobileMalang)
+- [Komunitas Backend Developer](https://t.me/BackEndID)
 - [Komunitas Belajar Koding](https://t.me/komunitasbk)
 - [Komunitas Programmer Makassar](https://t.me/joinchat/CIBeJBFsLn0qc3Ds_Su9jg)
 - [Kongkow IT Medan](https://t.me/kongkowITMedan)
