@@ -229,7 +229,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Kelas Mobile Malang](https://t.me/KelasMobileMalang)
 - [Komunitas Backend Developer](https://t.me/BackEndID)
 - [Komunitas Belajar Koding](https://t.me/komunitasbk)
-- [Komunitas Programmer Makassar](https://t.me/joinchat/CIBeJBFsLn0qc3Ds_Su9jg)
 - [Kongkow IT Medan](https://t.me/kongkowITMedan)
 - [Kongkow IT Pekanbaru](https://t.me/kongkowITpekanbaru)
 - [Kotakode](https://t.me/kotakodebetachat)
