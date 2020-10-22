@@ -338,6 +338,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### Game Development
 
 - [Developer Muda Unity](https://t.me/devmudaunity)
+- [Lombok Games Developers (LGD)](https://t.me/lombokgamedev)
 
 ### Startup
 
