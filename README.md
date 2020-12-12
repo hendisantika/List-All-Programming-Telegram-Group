@@ -198,7 +198,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
 - [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
 - [Big Data Official Group](https://t.me/idbigdata)
-- [Block Chain Indonesia](https://t.me/blockChain_ID)
 - [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
 - [Data Scientist Indonesia](https://t.me/datascienceindonesia)
 - [Machine Learning Indonesia](https://t.me/machinelearningid)
