@@ -136,6 +136,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - **Rust**
 
   - [Rust Indonesia](https://t.me/rustindonesia)
+  
+- **Elm**
+
+  - [Elm Indonesia](https://t.me/elmindonesia)
 
 - **Swift**
 
