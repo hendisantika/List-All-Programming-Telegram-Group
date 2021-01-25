@@ -11,7 +11,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   - [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
   - [Android Developer Lombok](https://t.me/android_lombok)
-  - [Android Developer Medan](https://t.me/android_dev_medan)
   - [Android - Teknorial.com](https://t.me/teknorialcom)
   - [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   - [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
@@ -96,7 +95,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - **Microsoft**
 
   - [.NETCore Indonesia](https://t.me/dotnetcore_id)
-  - [C# Indonesia](https://t.me/idcsharp)
   - [.NET Indonesia](https://t.me/dotnetusergroup)
   - [SQL Server Indonesia](https://t.me/sqlserverid)
   - [Xamarin Indonesia](https://t.me/xamarinindonesia)
@@ -110,7 +108,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
   - [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   - [Laravel Indonesia](https://t.me/laravelindonesia)
-  - [Laravel Semarang](https://t.me/LaravelSemarang)
   - [PHP Indonesia for Business](https://t.me/PHPIDforBusiness)
   - [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
   - [PHP Indonesia Jogloraya](https://t.me/phpjogloraya)
@@ -178,7 +175,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Docker.id](https://t.me/dockeridn)
 - [IDDevOps](https://t.me/IDDevOps)
 - [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
-- [ServerLess Tech](https://t.me/ServerlessTech)
 
 ### SQA
 
@@ -191,6 +187,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [#JuaraGCP](https://t.me/JuaraGCP)
 - [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
 - [AWS Analytics User Group Indonesia](https://t.me/AWSDataUserGroupID)
+- [GCP User Group Indonesia](https://t.me/GCPUserID)
 - [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
 
 ### Data PlayGround
