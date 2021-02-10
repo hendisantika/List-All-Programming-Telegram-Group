@@ -147,6 +147,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### BLOCKCHAIN
 
 - [Friends with Blockchain](https://t.me/friendswithblockchain)
+- [Hyperledger (Enterprise) Blockchain Indonesia](https://t.me/hl_id)
 
 ### DATABASE
 
