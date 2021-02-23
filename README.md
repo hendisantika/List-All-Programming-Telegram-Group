@@ -69,7 +69,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
   - [Adonis.js Indonesia](https://t.me/adonisid)
   - [Angular Indonesia](https://t.me/AngularID)
-  - [Coderjs](https://t.me/joinchat/GpYOBU7NtL71-XtbwqmCjQ)
   - [Deno Indonesia](https://t.me/deno_id)
   - [Electron Desktop User Group](https://t.me/electronatom)
   - [Ionic Indonesia](https://t.me/indonesiaionic)
@@ -205,15 +204,12 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [PyTorch Indonesia](https://t.me/pytorchid)
 - [ScrapeID](https://t.me/ScrapeID)
 - [TensorFlow Indonesia](https://t.me/tensorflowid)
-- [Trading Bitcoin](https://t.me/noobitcoin)
 
 ### Development
 
-- [Aceh InfoTech](https://t.me/AcehInfoTech)
 - [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
 - [Belajar Golang MariaDB](https://t.me/BelajarGolangMariaDB)
 - [Belajar HTML](https://t.me/belajarhtmlcss)
-- [Bengkel KMB](https://t.me/kmbteam)
 - [Bogor Developers](https://t.me/BogorDev)
 - [Bot Telegram API](https://t.me/TgBotID)
 - [Cilegon Developer](https://t.me/cilegondev)
@@ -234,7 +230,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Kongkow IT Medan](https://t.me/kongkowITMedan)
 - [Kongkow IT Pekanbaru](https://t.me/kongkowITpekanbaru)
 - [Kotakode](https://t.me/kotakodebetachat)
-- [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
 - [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 - [Pasuruan Dev](https://t.me/pasuruandev)
 - [Programmer Semarang Raya](https://t.me/programersemarangraya)
@@ -253,7 +248,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [UI/UX Indonesia](https://t.me/UiuxIndo)
 - [UXiD Lombok](https://t.me/uxidlombok)
 - [Vim Indonesia](https://t.me/VimID)
-- [W3ID - WWWID PWA](https://t.me/wwwid_pwa)
 - [WordPress](https://t.me/idwordpress)
 - [Channel Otodidak Pemrograman](https://t.me/otodidak_ngoding)
 - [Kulkul.tech Community - Meetup and Dev Community](https://t.me/kulkultech)
@@ -282,7 +276,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Manjaro Indonesia](https://t.me/manjaroID)
 - [openSUSE Indonesia](https://t.me/openSUSE_ID)
 - [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
-- [Slackware Indonesia](https://t.me/SlackwareID)
 - [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 - [Ubuntu Indonesia](https://t.me/ubuntu_id)
 - [Paguyuban Linux Solo](https://t.me/linuxsolo)
@@ -293,7 +286,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Mikrotik
 
-- [MIKROTIK INDONESIA](https://t.me/MIKROTIK_INDONESIA)
 - [Mikrotik Indonesia](https://t.me/mikrotikindonesia)
 
 ### Security
@@ -309,10 +301,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [PegelWindows](https://t.me/pegelwindows)
 - [Windows 10 Community ID](https://t.me/WinTenGroup)
 - [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
-
-### MacOS
-
-- [Mac OS X ID](https://t.me/MacOSXIDGroup)
 
 ### iOS
 
@@ -341,7 +329,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Game Development
 
-- [Developer Muda Unity](https://t.me/devmudaunity)
 - [Lombok Games Developers (LGD)](https://t.me/lombokgamedev)
 
 ### Startup
