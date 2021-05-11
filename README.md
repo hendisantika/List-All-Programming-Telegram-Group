@@ -86,6 +86,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [SurabayaJs](https://t.me/surabayajs)
   - [Svelte Indonesia](https://t.me/svelte_id)
   - [Vue.js Indonesia](https://t.me/vuejsindonesia)
+  - [Strapi Indonesia](https://t.me/strapi_id)
 
 - **Kotlin**
 
