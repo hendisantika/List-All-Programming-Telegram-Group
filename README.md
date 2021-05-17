@@ -101,7 +101,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - **Pascal - Delphi**
 
-  - [Kelompok Penggemar Pemrograman Delphi Indonesia](https://t.me/kppdi)
+  - [Delphi Indonesia](https://t.me/delphiindonesia)
   - [Pascal Indonesia](https://t.me/PascalID)
 
 - **PHP**
