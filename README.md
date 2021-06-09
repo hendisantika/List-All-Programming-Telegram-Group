@@ -6,6 +6,12 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Programming Language
 
+- **.NET**
+
+  - [One .NET Indonesia](https://t.me/dotnetcore_id)
+  - [.NET Indonesia](https://t.me/dotnetusergroup)
+  - [Xamarin Indonesia](https://t.me/xamarinindonesia)
+
 - **Android**
 
   - [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
@@ -92,13 +98,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Kotlin Cirebon](https://t.me/kotlin_crb)
   - [Kotlin Indonesia](https://t.me/KotlinID)
 
-- **Microsoft**
-
-  - [One .NET Indonesia](https://t.me/dotnetcore_id)
-  - [.NET Indonesia](https://t.me/dotnetusergroup)
-  - [SQL Server Indonesia](https://t.me/sqlserverid)
-  - [Xamarin Indonesia](https://t.me/xamarinindonesia)
-
 - **Pascal - Delphi**
 
   - [Delphi Indonesia](https://t.me/delphiindonesia)
@@ -149,6 +148,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Hyperledger (Enterprise) Blockchain Indonesia](https://t.me/hl_id)
 
 ### DATABASE
+
+- **Microsoft SQL Server**
+
+  - [SQL Server Indonesia](https://t.me/sqlserverid)
 
 - **MongoDB**
 
