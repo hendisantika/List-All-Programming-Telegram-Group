@@ -191,9 +191,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [#JuaraGCP](https://t.me/JuaraGCP)
 - [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
 - [AWS Analytics User Group Indonesia](https://t.me/AWSDataUserGroupID)
+- [Azure ID](https://t.me/azureindo)
 - [GCP User Group Indonesia](https://t.me/GCPUserID)
 - [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
-- [Azure ID](https://t.me/azureindo)
+
 
 ### Data PlayGround
 
