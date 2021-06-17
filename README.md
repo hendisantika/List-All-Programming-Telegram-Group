@@ -249,6 +249,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [LamonganDev](https://t.me/lamongandev)
 - [Taman Kode-Kode](https://t.me/tamankodekode)
 - [Tailwind Indonesia](https://t.me/TailwindID)
+- [Teknologi Umum](https://t.me/teknologi_umum)
 - [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 - [UI/UX Indonesia](https://t.me/UiuxIndo)
 - [UXiD Lombok](https://t.me/uxidlombok)
