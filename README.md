@@ -337,6 +337,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - [Indonesian GDevelop](https://t.me/GDevelopID)
 - [Lombok Games Developers (LGD)](https://t.me/lombokgamedev)
+- [Komunitas Godot Indonesia](https://t.me/godot_indonesia)
 
 ### Startup
 
