@@ -219,6 +219,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Bot Telegram API](https://t.me/TgBotID)
 - [Cilegon Developer](https://t.me/cilegondev)
 - [CirebonDev](https://t.me/crbdev)
+- [Emacs Indonesia](https://t.me/emacsID)
 - [Femalegeek](https://t.me/femalegeek)
 - [Free Kelas Github](https://t.me/freekelasgithub)
 - [Frontend Developer Indonesia](https://t.me/FrontEndID)
@@ -265,10 +266,12 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### LINUX
 
 - [Arch Linux Indonesia](https://t.me/ArchLinuxID)
+- [Artix Linux Indonesia](https://t.me/artixlinux_id)
 - [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
 - [BlankOn Linux](https://t.me/BlankOnLinux)
 - [CentOS.ID](https://t.me/centosID)
 - [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
+- [Desktop Environment Indonesia](https://t.me/desktopenvironment_id)
 - [Dotfiles Indonesia](https://t.me/dotfiles_id)
 - [Elementary OS Indonesia](https://t.me/elementaryID)
 - [Fedora Indonesia](https://t.me/FedoraID)
@@ -281,10 +284,11 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Linux Mint Indonesia](https://t.me/mint_id)
 - [Manjaro Indonesia](https://t.me/manjaroID)
 - [openSUSE Indonesia](https://t.me/openSUSE_ID)
+- [Paguyuban Linux Solo](https://t.me/linuxsolo)
 - [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
 - [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 - [Ubuntu Indonesia](https://t.me/ubuntu_id)
-- [Paguyuban Linux Solo](https://t.me/linuxsolo)
+- [Void Linux Indonesia](https://t.me/voidlinux_id)
 
 ### BSD
 
