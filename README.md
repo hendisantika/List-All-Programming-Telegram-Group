@@ -52,6 +52,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Flutter Indonesia](https://t.me/flutter_id)
   - [Flutter Jakarta](https://t.me/flutter_jkt)
   - [Flutter Makassar](https://t.me/fluttermakassar)
+  - [Flutter Semarang](https://t.me/flutter_smg)
   - [Lombok Flutter](https://t.me/lombokflutter)
 
 - **Elixir**
@@ -146,6 +147,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - [Friends with Blockchain](https://t.me/friendswithblockchain)
 - [Hyperledger (Enterprise) Blockchain Indonesia](https://t.me/hl_id)
+- [Nusantara Chain (Nuchain)](https://t.me/nusantarachain)
 
 ### DATABASE
 
@@ -301,6 +303,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Reversing.ID](https://t.me/reversingid)
 - [Orang Siber Indonesia](https://t.me/orangsiber)
 - [IT SECURITY INDONESIA](https://t.me/itsecurityindonesia)
+- [OSINT Indonesia](https://t.me/OSINT_ID)
 
 ### Windows
 
@@ -338,6 +341,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Indonesian GDevelop](https://t.me/GDevelopID)
 - [Komunitas Godot Indonesia](https://t.me/godot_indonesia)
 - [Lombok Games Developers (LGD)](https://t.me/lombokgamedev)
+- [GAMERANG - Game Developer Semarang](https://t.me/gamerang)
 
 ### Startup
 
