@@ -311,6 +311,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Windows 10 Community ID](https://t.me/WinTenGroup)
 - [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
 
+### MacOS
+
+- [macOS Indonesia](https://t.me/macOSID)
+
 ### iOS
 
 - [iKaskus](https://t.me/ikaskus)
