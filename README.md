@@ -221,6 +221,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Bot Telegram API](https://t.me/TgBotID)
 - [Cilegon Developer](https://t.me/cilegondev)
 - [CirebonDev](https://t.me/crbdev)
+- [[c]oretan Script](https://t.me/cScript)
 - [Femalegeek](https://t.me/femalegeek)
 - [Free Kelas Github](https://t.me/freekelasgithub)
 - [Frontend Developer Indonesia](https://t.me/FrontEndID)
