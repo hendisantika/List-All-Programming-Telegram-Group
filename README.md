@@ -186,7 +186,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### SQA
 
 - [Indonesian Software Quality Assurace](https://t.me/sqa_id)
-- [Indonesian Software Quality Assurace Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
 - [Malang Quality Assurace](https://t.me/qamalang)
 
 ### Cloud Computing Services
@@ -286,7 +285,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Manjaro Indonesia](https://t.me/manjaroID)
 - [openSUSE Indonesia](https://t.me/openSUSE_ID)
 - [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
-- [TeaLinuxOS](https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA)
 - [Ubuntu Indonesia](https://t.me/ubuntu_id)
 - [Paguyuban Linux Solo](https://t.me/linuxsolo)
 
