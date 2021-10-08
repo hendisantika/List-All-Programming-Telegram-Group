@@ -22,6 +22,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   - [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   - [Source Code Android](https://t.me/source_code_android)
+  - [Yogyakarta Android Community](https://t.me/YACgroup)
 
 - **Agile**
 
