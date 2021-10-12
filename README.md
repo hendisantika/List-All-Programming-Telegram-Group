@@ -121,6 +121,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   
   - [codewithbiki](https://t.me/codewithbiki)
   - [Django Indonesia](https://t.me/DjangoID)
+  - [FastAPI Indonesia](https://t.me/fastapiid)
   - [Flask ID](https://t.me/flaskid)
   - [Lombok.py](https://t.me/lombok_py)
   - [mks.py](https://t.me/mkspy)
