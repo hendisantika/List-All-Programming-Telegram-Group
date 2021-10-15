@@ -267,6 +267,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### Microservice
 
 - [Microservice Architecture](https://t.me/msarchitecture)
+- [Microservice Indonesia](https://t.me/microservices_id)
 
 ### LINUX
 
