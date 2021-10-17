@@ -291,6 +291,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
 - [Ubuntu Indonesia](https://t.me/ubuntu_id)
 - [Paguyuban Linux Solo](https://t.me/linuxsolo)
+- [Linux From Scratch ID](https://t.me/lfsid)
 
 ### BSD
 
