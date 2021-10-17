@@ -91,6 +91,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Polymer Indonesia](https://t.me/polymer_id)
   - [React Indonesia](https://t.me/react_id)
   - [React Native Indonesia](https://t.me/reactnative_id)
+  - [React India](https://t.me/reactjsbharat)
   - [Semarang JS](https://t.me/SemarangJS)
   - [SurabayaJs](https://t.me/surabayajs)
   - [Svelte Indonesia](https://t.me/svelte_id)
