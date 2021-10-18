@@ -244,6 +244,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Kotakode](https://t.me/kotakodebetachat)
 - [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 - [Pasuruan Dev](https://t.me/pasuruandev)
+- [Programmer Lokal](https://t.me/programmerlokal)
 - [Programmer Semarang Raya](https://t.me/programersemarangraya)
 - [RantauDev](https://t.me/rantaudev)
 - [Santren Koding](https://t.me/santrenkoding)
