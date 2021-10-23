@@ -341,6 +341,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - [Freelancer - Indonesia](https://t.me/freelancerID)
 - [Freelance Project IT](https://t.me/freelance_01)
+- [Kotakode Jobs](https://t.me/kotakodejobs)
 - [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
 - [Loker Jakarta](https://t.me/loker_jakarta)
 - [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
