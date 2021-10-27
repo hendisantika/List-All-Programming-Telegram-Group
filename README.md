@@ -190,6 +190,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 ### SQA
 
 - [Indonesian Software Quality Assurace](https://t.me/sqa_id)
+- [ISQA Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
 - [Malang Quality Assurace](https://t.me/qamalang)
 
 ### Cloud Computing Services
