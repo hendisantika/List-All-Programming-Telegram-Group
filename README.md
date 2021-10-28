@@ -179,6 +179,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
 - [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
+- [arduinoindonesia.id](https://t.me/edukasielektronika)
 
 ### DevOps
 
@@ -266,6 +267,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [WordPress](https://t.me/idwordpress)
 - [Channel Otodidak Pemrograman](https://t.me/otodidak_ngoding)
 - [Kulkul.tech Community - Meetup and Dev Community](https://t.me/kulkultech)
+- [Belajar Coding Bareng](https://t.me/BelajarCoding)
 
 ### Microservice
 
