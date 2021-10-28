@@ -111,6 +111,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
   - [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   - [Laravel Indonesia](https://t.me/laravelindonesia)
+  - [Laravel Brazil](https://t.me/laravelbr)
   - [PHP Indonesia for Business](https://t.me/PHPIDforBusiness)
   - [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
   - [PHP Indonesia Jogloraya](https://t.me/phpjogloraya)
