@@ -130,6 +130,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Python ID](https://t.me/pythonID)
   - [Python ID Jogja](https://t.me/pyjogja)
   - [Surabaya.py](https://t.me/surabayadotpy)
+  - [Python BR](https://t.me/pythonbr)
   
 - **Ruby**
 
