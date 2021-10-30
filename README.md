@@ -316,6 +316,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Orang Siber Indonesia](https://t.me/orangsiber)
 - [IT SECURITY INDONESIA](https://t.me/itsecurityindonesia)
 - [OSINT Indonesia](https://t.me/OSINT_ID)
+- [Malang Hacker Link](https://t.me/official_MHL)
 
 ### Windows
 
