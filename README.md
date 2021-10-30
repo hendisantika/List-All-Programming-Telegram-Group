@@ -312,10 +312,11 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - [DevSecOps Indonesia](https://t.me/DevSecOpsIndonesia)
 - [ForensicaID](https://t.me/ForensicaID)
-- [Reversing.ID](https://t.me/reversingid)
-- [Orang Siber Indonesia](https://t.me/orangsiber)
 - [IT SECURITY INDONESIA](https://t.me/itsecurityindonesia)
+- [Malang Hacker Link](https://t.me/official_MHL)
+- [Orang Siber Indonesia](https://t.me/orangsiber)
 - [OSINT Indonesia](https://t.me/OSINT_ID)
+- [Reversing.ID](https://t.me/reversingid)
 
 ### Windows
 
