@@ -205,6 +205,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [GCP User Group Indonesia](https://t.me/GCPUserID)
 - [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
 
+### Cloud Infrastructure
+
+- [OpenStack Indonesia](https://t.me/openstackindo)
 
 ### Data PlayGround
 
