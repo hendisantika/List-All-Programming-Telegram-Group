@@ -69,10 +69,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
   - [Haskell ID](https://t.me/haskell_id)
 
-- **Java**
-
-  - [JVM User Group](https://t.me/JVMUserGroup)
-
 - **JavaScript**
 
   - [Adonis.js Indonesia](https://t.me/adonisid)
@@ -121,7 +117,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Yii Framework Indonesia](https://t.me/YiiFrameworkIndonesia)
 
 - **Python**
-  
+
   - [codewithbiki](https://t.me/codewithbiki)
   - [Django Indonesia](https://t.me/DjangoID)
   - [FastAPI Indonesia](https://t.me/fastapiid)
@@ -132,7 +128,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Python ID Jogja](https://t.me/pyjogja)
   - [Surabaya.py](https://t.me/surabayadotpy)
   - [Python BR](https://t.me/pythonbr)
-  
+
 - **Ruby**
 
   - [Rails Indonesia](https://t.me/RailsID)
