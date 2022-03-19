@@ -293,7 +293,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Elementary OS Indonesia](https://t.me/elementaryID)
 - [Fedora Indonesia](https://t.me/FedoraID)
 - [GNOME Indonesia](https://t.me/gnomeid)
-- [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
 - [Kali Linux Indonesia](https://t.me/KaliLinuxID)
 - [KDE Indonesia](https://t.me/kdeid)
 - [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
