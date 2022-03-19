@@ -121,7 +121,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Yii Framework Indonesia](https://t.me/YiiFrameworkIndonesia)
 
 - **Python**
-  
+
   - [codewithbiki](https://t.me/codewithbiki)
   - [Django Indonesia](https://t.me/DjangoID)
   - [FastAPI Indonesia](https://t.me/fastapiid)
@@ -132,7 +132,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Python ID Jogja](https://t.me/pyjogja)
   - [Surabaya.py](https://t.me/surabayadotpy)
   - [Python BR](https://t.me/pythonbr)
-  
+
 - **Ruby**
 
   - [Rails Indonesia](https://t.me/RailsID)
@@ -292,7 +292,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Elementary OS Indonesia](https://t.me/elementaryID)
 - [Fedora Indonesia](https://t.me/FedoraID)
 - [GNOME Indonesia](https://t.me/gnomeid)
-- [Grup Pengguna Gentoo Indonesia](https://t.me/GPG_Indonesia)
 - [Kali Linux Indonesia](https://t.me/KaliLinuxID)
 - [KDE Indonesia](https://t.me/kdeid)
 - [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
