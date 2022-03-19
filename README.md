@@ -231,6 +231,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Belajar HTML](https://t.me/belajarhtmlcss)
 - [Bogor Developers](https://t.me/BogorDev)
 - [Bot Telegram API](https://t.me/TgBotID)
+- [Borneo Koding](https://t.me/borneokoding)
 - [Cilegon Developer](https://t.me/cilegondev)
 - [CirebonDev](https://t.me/crbdev)
 - [[c]oretan Script](https://t.me/cScript)
