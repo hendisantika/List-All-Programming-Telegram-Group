@@ -101,7 +101,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - **Kotlin**
 
   - [Kotlin Cirebon](https://t.me/kotlin_crb)
-  - [Kotlin Indonesia](https://t.me/KotlinID)
+  - [Kotlin Indonesia](https://t.me/KotlinIndonesia)
 
 - **Pascal - Delphi**
 
