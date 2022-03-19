@@ -69,6 +69,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
   - [Haskell ID](https://t.me/haskell_id)
 
+  - **Java**
+
+  - [JVM User Group](https://t.me/JVMIndonesia)
+
 - **JavaScript**
 
   - [Adonis.js Indonesia](https://t.me/adonisid)
