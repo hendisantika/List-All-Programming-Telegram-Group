@@ -256,7 +256,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Programmer Lokal](https://t.me/programmerlokal)
 - [Programmer Semarang Raya](https://t.me/programersemarangraya)
 - [RantauDev](https://t.me/rantaudev)
-- [Roacode](https://t.me/RoacodeTweet)
+- [Roacode](https://t.me/Roacode)
 - [Santren Koding](https://t.me/santrenkoding)
 - [SARCCOM Universe](https://t.me/sarccomuniverse)
 - [Sidoarjo Dev](https://t.me/sidoarjodev)
