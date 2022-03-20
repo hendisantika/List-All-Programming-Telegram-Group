@@ -277,6 +277,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Kulkul.tech Community - Meetup and Dev Community](https://t.me/kulkultech)
 - [Belajar Coding Bareng](https://t.me/BelajarCoding)
 - [codingfess](https://t.me/codingfess)
+- [Komunitas RPA Indonesia](https://t.me/KomunitasRPAIndonesia)
 
 ### Microservice
 
