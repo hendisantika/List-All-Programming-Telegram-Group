@@ -92,7 +92,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Polymer Indonesia](https://t.me/polymer_id)
   - [React Indonesia](https://t.me/react_id)
   - [React Native Indonesia](https://t.me/reactnative_id)
-  - [React India](https://t.me/reactjsbharat)
   - [Semarang JS](https://t.me/SemarangJS)
   - [SurabayaJs](https://t.me/surabayajs)
   - [Svelte Indonesia](https://t.me/svelte_id)
@@ -112,7 +111,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
   - [CodeIgniter Indonesia](https://t.me/codeigniterindonesia)
   - [Laravel Indonesia](https://t.me/laravelindonesia)
-  - [Laravel Brazil](https://t.me/laravelbr)
   - [PHP Indonesia for Business](https://t.me/PHPIDforBusiness)
   - [PHP Indonesia for Student](https://t.me/PHPIDforStudent)
   - [PHP Indonesia Jogloraya](https://t.me/phpjogloraya)
@@ -122,7 +120,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - **Python**
 
-  - [codewithbiki](https://t.me/codewithbiki)
   - [Django Indonesia](https://t.me/DjangoID)
   - [FastAPI Indonesia](https://t.me/fastapiid)
   - [Flask ID](https://t.me/flaskid)
@@ -131,7 +128,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Python ID](https://t.me/pythonID)
   - [Python ID Jogja](https://t.me/pyjogja)
   - [Surabaya.py](https://t.me/surabayadotpy)
-  - [Python BR](https://t.me/pythonbr)
 
 - **Ruby**
 
