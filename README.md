@@ -90,7 +90,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Nodejs Indonesia](https://t.me/nodejsid)
   - [NuxtJs Indonesia](https://t.me/nuxtjsid)
   - [Polymer Indonesia](https://t.me/polymer_id)
-  - [React Indonesia](https://t.me/react_id)
+  - [React Indonesia](https://t.me/react_idn)
   - [React Native Indonesia](https://t.me/reactnative_id)
   - [Semarang JS](https://t.me/SemarangJS)
   - [SurabayaJs](https://t.me/surabayajs)
