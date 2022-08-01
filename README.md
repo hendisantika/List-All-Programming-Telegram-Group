@@ -88,6 +88,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [NativeScript ID](https://t.me/nativescript_id)
   - [Next.js Indonesia](https://t.me/nextjs_id)
   - [Nodejs Indonesia](https://t.me/nodejsid)
+  - [Nestjs Indonesia](https://t.me/nestjs_indonesia)
   - [NuxtJs Indonesia](https://t.me/nuxtjsid)
   - [Polymer Indonesia](https://t.me/polymer_id)
   - [React Indonesia](https://t.me/react_idn)
@@ -174,11 +175,22 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - [Firebase Indonesia](https://t.me/firebaseindonesia)
 
+### Design
+
+- [UI/UX Indonesia](https://t.me/UiuxIndo)
+- [UXiD Lombok](https://t.me/uxidlombok)
+- [Sinau Desain](https://t.me/SinauDesain)
+- [GimpScape ID](https://t.me/gimpscape)
+- [Uplabs Indonesia](https://t.me/uplabsindonesia)
+- [Photoshop Community ID](https://t.me/photoshopcommunity_id)
+- [Kumpulan Grub Adobe](https://t.me/grupadobelainnya)
+
 ### IOT
 
 - [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
 - [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
 - [arduinoindonesia.id](https://t.me/edukasielektronika)
+- [KelasRobot.com](https://t.me/kelasrobotgrup)
 
 ### DevOps
 
@@ -263,10 +275,8 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [LamonganDev](https://t.me/lamongandev)
 - [Taman Kode-Kode](https://t.me/tamankodekode)
 - [Tailwind Indonesia](https://t.me/TailwindID)
-- [Teknologi Umum](https://t.me/teknologi_umum)
+- [Teknologi Umum](https://t.me/teknologi_umum_v2)
 - [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
-- [UI/UX Indonesia](https://t.me/UiuxIndo)
-- [UXiD Lombok](https://t.me/uxidlombok)
 - [Vim Indonesia](https://t.me/VimID)
 - [WordPress](https://t.me/idwordpress)
 - [Channel Otodidak Pemrograman](https://t.me/otodidak_ngoding)
@@ -309,7 +319,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Mikrotik
 
-- [Mikrotik Indonesia](https://t.me/mikrotikindonesia)
+- [Mikrotik Indonesia](https://t.me/indonesiamikrotik)
 
 ### Security
 
@@ -334,6 +344,11 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - [iKaskus](https://t.me/ikaskus)
 - [iNitial E](http://t.me/initialestore)
+
+### Office
+
+- [Excel Indonesia](https://t.me/excelid)
+- [Libreoffice Indonesia](https://t.me/BelajarLibreOfficeIndonesia)
 
 ### Tentang Telegram
 
