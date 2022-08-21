@@ -126,6 +126,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Flask ID](https://t.me/flaskid)
   - [Lombok.py](https://t.me/lombok_py)
   - [mks.py](https://t.me/mkspy)
+  - [Python](https://t.me/Python)
   - [Python ID](https://t.me/pythonID)
   - [Python ID Jogja](https://t.me/pyjogja)
   - [Surabaya.py](https://t.me/surabayadotpy)
@@ -192,6 +193,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [arduinoindonesia.id](https://t.me/edukasielektronika)
 - [KelasRobot.com](https://t.me/kelasrobotgrup)
 
+### Jokes
+
+- [Programmer Jokes](https://t.me/programmerjokes)
+
 ### DevOps
 
 - [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
@@ -250,6 +255,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [IAM Indonesia](https://t.me/IAMIndonesia)
 - [IDStack](https://t.me/idstack)
 - [Info Event Teknologi](https://t.me/eventteknologi)
+- [Infotech Programmer](https://t.me/infotechprogrammer)
 - [IT Nusantara](https://t.me/ITNusantara)
 - [JemberDev](https://t.me/DjemberDev)
 - [Kabayan Coding](https://t.me/kabayan_coding)
