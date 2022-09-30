@@ -204,6 +204,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Docker.id](https://t.me/dockeridn)
 - [IDDevOps](https://t.me/IDDevOps)
 - [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
+- [Kubernetes & Cloud Native Yogyakarta](https://t.me/cncfjogja)
 - [OKD Indonesia](https://t.me/okdindonesia)
 
 ### SQA
