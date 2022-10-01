@@ -1,6 +1,6 @@
 # Awesome Indonesia Telegram Groups
 
-A list of awesome Indonesia groups related to programming language on Telegram.
+A list of awesome Indonesian groups related to a programming language on Telegram.
 
 ## List
 
@@ -208,9 +208,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### SQA
 
-- [Indonesian Software Quality Assurace](https://t.me/sqa_id)
+- [Indonesian Software Quality Assurance](https://t.me/sqa_id)
 - [ISQA Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
-- [Malang Quality Assurace](https://t.me/qamalang)
+- [Malang Quality Assurance](https://t.me/qamalang)
 
 ### Cloud Computing Services
 
@@ -225,7 +225,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - [OpenStack Indonesia](https://t.me/openstackindo)
 
-### Data PlayGround
+### Data Playground
 
 - [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
 - [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
@@ -344,7 +344,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Windows 10 Community ID](https://t.me/WinTenGroup)
 - [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
 
-### MacOS
+### macOS
 
 - [macOS Indonesia](https://t.me/macOSID)
 
@@ -412,4 +412,4 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Hendi Santika](https://github.com/hendisantika) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Hendi Santika](https://github.com/hendisantika) has waived all copyright and related or neighbouring rights to this work.
