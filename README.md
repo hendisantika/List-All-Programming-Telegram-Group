@@ -30,11 +30,13 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Office](#office)
   - [Open Source](#open-source)
   - [Programming Language](#programming-language)
+  - [Quantum](#quantum)
   - [Science](#science)
   - [Security](#security)
   - [Software Quality Assurance (SQA)](#software-quality-assurance-sqa)
   - [Startup](#startup)
   - [Tentang Telegram](#tentang-telegram)
+  - [Tips](#tips)
   - [Windows](#windows)
 </details>
 
@@ -91,11 +93,12 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Big Data Official Group](https://t.me/idbigdata)
 - [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
 - [Data Scientist Indonesia](https://t.me/datascienceindonesia)
+- [Indonesia AI Forum](https://t.me/IAIForum)
 - [Machine Learning ID Lombok](https://t.me/machinelearninglombok)
-- [Machine Learning Indonesia](https://t.me/machinelearningid)
+- [Machine Learning ID](https://t.me/machinelearningid)
 - [Natural Language ID](https://t.me/nlp_lounge)
 - [PyTorch Indonesia](https://t.me/pytorchid)
-- [ScrapeID](https://t.me/ScrapeID)
+- [Scrape ID](https://t.me/ScrapeID)
 - [TensorFlow Indonesia](https://t.me/tensorflowid)
 </details>
 
@@ -117,7 +120,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - **MySQL**
 
-  - [MySQL Indonesia](https://t.me/mysqlid)
+  - [MySQL & MariaDB Indonesia](https://t.me/mysqlid)
 
 - **PostgreSQL**
   - [PostgreSQL Indonesia](https://t.me/postgresql_id)
@@ -210,7 +213,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 </summary>
 
 - [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
-- [Docker.id](https://t.me/dockeridn)
+- [Docker Indonesia](https://t.me/dockeridn)
 - [IDDevOps](https://t.me/IDDevOps)
 - [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
 - [OKD Indonesia](https://t.me/okdindonesia)
@@ -391,6 +394,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 ### Open Source
 </summary>
 
+- [OSINT Indonesia](https://t.me/OSINT_Indonesia)
 - [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
 </details>
 
@@ -524,9 +528,9 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Lombok.py](https://t.me/lombok_py)
   - [mks.py](https://t.me/mkspy)
   - [Python ID Jogja](https://t.me/pyjogja)
-  - [Python ID](https://t.me/pythonID)
+  - [Python Indonesia](https://t.me/pythonID)
   - [Python](https://t.me/Python)
-  - [Surabaya.py](https://t.me/surabayadotpy)
+  - [Surabaya.py](https://t.me/surabayapy)
 
 - **Ruby**
 
@@ -545,6 +549,17 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Typescript Indonesia](https://t.me/TypescriptIndonesia)
 - **SAP ABAP Indonesia**
   - [SAP-ABAP Indonesia](https://t.me/sapabapindonesia)
+</details>
+
+[back to the 🔝](#list)
+
+<details>
+<summary>
+
+### Quantum
+</summary>
+
+  - [Indonesian Quantum Computing Enthusiasts](https://t.me/idqce)
 </details>
 
 [back to the 🔝](#list)
@@ -600,6 +615,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - [Cafe Startup 140315](https://t.me/cafestartup)
 - [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
+- [Startup Life Indonesia](https://t.me/StartupLifeIndonesia)
 - [Startup Weekend Indonesia](https://t.me/startupweekendindonesia)
 </details>
 
@@ -614,6 +630,17 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Telegram beta](https://t.me/tgbeta)
 - [Telegram Themes](https://t.me/themeschannel)
 - [Tentang Telegram](https://t.me/tentangtelegram)
+</details>
+
+[back to the 🔝](#list)
+
+<details>
+<summary>
+
+### Tips
+</summary>
+
+- [The Art of Programming](https://t.me/theprogrammingart)
 </details>
 
 [back to the 🔝](#list)
