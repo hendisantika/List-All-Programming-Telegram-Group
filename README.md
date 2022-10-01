@@ -1,23 +1,314 @@
 # Awesome Indonesia Telegram Groups
 
-A list of awesome Indonesia groups related to programming language on Telegram.
+A list of awesome Indonesian groups related to a programming language on Telegram.
 
 ## List
+  - [a](#a)
+  - [Blockchain](#blockchain)
+  - [Cloud Computing Services](#cloud-computing-services)
+  - [Cloud Infrastructure](#cloud-infrastructure)
+  - [Data Playground](#data-playground)
+  - [Database](#database)
+  - [Design](#design)
+  - [Development](#development)
+  - [DevOps](#devops)
+  - [Firebase](#firebase)
+  - [FreeBSD](#freebsd)
+  - [Game Development](#game-development)
+  - [Internet of Things (IoT)](#internet-of-things-iot)
+  - [iOS](#ios)
+  - [Jokes](#jokes)
+  - [Linux](#linux)
+  - [Lowongan Kerja](#lowongan-kerja)
+  - [macOS](#macos)
+  - [Microservice](#microservice)
+  - [Mikrotik](#mikrotik)
+  - [Office](#office)
+  - [Open Source](#open-source)
+  - [Programming Language](#programming-language)
+  - [Science](#science)
+  - [Security](#security)
+  - [Software Quality Assurance (SQA)](#software-quality-assurance-sqa)
+  - [Startup](#startup)
+  - [Tentang Telegram](#tentang-telegram)
+  - [Windows](#windows)
+
+[back to the 🔝](#list)
+
+<details>
+<summary>
+
+### A
+</summary>
+
+- [a](google.com)
+</details>
+
+### Blockchain
+
+- [Friends with Blockchain](https://t.me/friendswithblockchain)
+- [Hyperledger (Enterprise) Blockchain Indonesia](https://t.me/hl_id)
+- [Nusantara Chain (Nuchain)](https://t.me/nusantarachain)
+
+[back to the 🔝](#list)
+
+### Cloud Computing Services
+
+- [#JuaraGCP](https://t.me/JuaraGCP)
+- [AWS Analytics User Group Indonesia](https://t.me/AWSDataUserGroupID)
+- [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
+- [Azure ID](https://t.me/azureindo)
+- [GCP User Group Indonesia](https://t.me/GCPUserID)
+- [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
+
+[back to the 🔝](#list)
+
+### Cloud Infrastructure
+
+- [OpenStack Indonesia](https://t.me/openstackindo)
+
+[back to the 🔝](#list)
+
+### Data Playground
+
+- [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
+- [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
+- [Big Data Official Group](https://t.me/idbigdata)
+- [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
+- [Data Scientist Indonesia](https://t.me/datascienceindonesia)
+- [Machine Learning ID Lombok](https://t.me/machinelearninglombok)
+- [Machine Learning Indonesia](https://t.me/machinelearningid)
+- [Natural Language ID](https://t.me/nlp_lounge)
+- [PyTorch Indonesia](https://t.me/pytorchid)
+- [ScrapeID](https://t.me/ScrapeID)
+- [TensorFlow Indonesia](https://t.me/tensorflowid)
+
+[back to the 🔝](#list)
+
+### Database
+
+- **Microsoft SQL Server**
+
+  - [SQL Server Indonesia](https://t.me/sqlserverid)
+
+- **MongoDB**
+
+  - [MongoDB Indonesia](https://t.me/MongoDB_ID)
+
+- **MySQL**
+
+  - [MySQL Indonesia](https://t.me/mysqlid)
+
+- **PostgreSQL**
+  - [PostgreSQL Indonesia](https://t.me/postgresql_id)
+
+[back to the 🔝](#list)
+
+### Design
+
+- [GimpScape ID](https://t.me/gimpscape)
+- [Kumpulan Grub Adobe](https://t.me/grupadobelainnya)
+- [Photoshop Community ID](https://t.me/photoshopcommunity_id)
+- [Sinau Desain](https://t.me/SinauDesain)
+- [UI/UX Indonesia](https://t.me/UiuxIndo)
+- [Uplabs Indonesia](https://t.me/uplabsindonesia)
+- [UXiD Lombok](https://t.me/uxidlombok)
+
+[back to the 🔝](#list)
+
+### Development
+
+- [[c]oretan Script](https://t.me/cScript)
+- [Belajar Coding Bareng](https://t.me/BelajarCoding)
+- [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
+- [Belajar Golang MariaDB](https://t.me/BelajarGolangMariaDB)
+- [Belajar HTML](https://t.me/belajarhtmlcss)
+- [Bogor Developers](https://t.me/BogorDev)
+- [Borneo Koding](https://t.me/borneokoding)
+- [Bot Telegram API](https://t.me/TgBotID)
+- [Channel Otodidak Pemrograman](https://t.me/otodidak_ngoding)
+- [Cilegon Developer](https://t.me/cilegondev)
+- [CirebonDev](https://t.me/crbdev)
+- [codingfess](https://t.me/codingfess)
+- [Femalegeek](https://t.me/femalegeek)
+- [Free Kelas Github](https://t.me/freekelasgithub)
+- [Frontend Developer Indonesia](https://t.me/FrontEndID)
+- [Gresik Dev](https://t.me/gresikdev)
+- [IAM Indonesia](https://t.me/IAMIndonesia)
+- [IDStack](https://t.me/idstack)
+- [Info Event Teknologi](https://t.me/eventteknologi)
+- [Infotech Programmer](https://t.me/infotechprogrammer)
+- [IT Nusantara](https://t.me/ITNusantara)
+- [JemberDev](https://t.me/DjemberDev)
+- [Kabayan Coding](https://t.me/kabayan_coding)
+- [Kelas Mobile Malang](https://t.me/KelasMobileMalang)
+- [Komunitas Backend Developer](https://t.me/BackEndID)
+- [Komunitas Belajar Koding](https://t.me/komunitasbk)
+- [Komunitas RPA Indonesia](https://t.me/KomunitasRPAIndonesia)
+- [Kongkow IT Medan](https://t.me/kongkowITMedan)
+- [Kongkow IT Pekanbaru](https://t.me/kongkowITpekanbaru)
+- [Kotakode](https://t.me/kotakodebetachat)
+- [Kulkul.tech Community - Meetup and Dev Community](https://t.me/kulkultech)
+- [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
+- [Pasuruan Dev](https://t.me/pasuruandev)
+- [Programmer Lokal](https://t.me/programmerlokal)
+- [Programmer Semarang Raya](https://t.me/programersemarangraya)
+- [RantauDev](https://t.me/rantaudev)
+- [Roacode](https://t.me/Roacode)
+- [Santren Koding](https://t.me/santrenkoding)
+- [SARCCOM Universe](https://t.me/sarccomuniverse)
+- [Sidoarjo Dev](https://t.me/sidoarjodev)
+- [SinauDev - Sinau Development](https://t.me/sinaudev)
+- [Software Engineer Indonesia](https://t.me/soft_eng_id)
+- [SparkAR Indonesia](https://t.me/sparkarindonesia)
+- [Surabaya Dev](https://t.me/surabayadev)
+- [Tailwind Indonesia](https://t.me/TailwindID)
+- [LamonganDev](https://t.me/lamongandev)
+- [Taman Kode-Kode](https://t.me/tamankodekode)
+- [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
+- [Teknologi Umum](https://t.me/teknologi_umum_v2)
+- [Vim Indonesia](https://t.me/VimID)
+- [WordPress](https://t.me/idwordpress)
+
+[back to the 🔝](#list)
+
+### DevOps
+
+- [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
+- [Docker.id](https://t.me/dockeridn)
+- [IDDevOps](https://t.me/IDDevOps)
+- [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
+- [OKD Indonesia](https://t.me/okdindonesia)
+
+[back to the 🔝](#list)
+
+### Firebase
+
+- [Firebase Indonesia](https://t.me/firebaseindonesia)
+
+[back to the 🔝](#list)
+
+### FreeBSD
+
+- [Laskar Setan Merah - Sharing All About FreeBSD](https://t.me/setanmerahID)
+
+[back to the 🔝](#list)
+
+### Game Development
+
+- [GAMERANG - Game Developer Semarang](https://t.me/gamerang)
+- [Indonesian GDevelop](https://t.me/GDevelopID)
+- [Komunitas Godot Indonesia](https://t.me/godot_indonesia)
+- [Lombok Games Developers (LGD)](https://t.me/lombokgamedev)
+
+[back to the 🔝](#list)
+
+### Internet of Things (IoT)
+
+- [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
+- [arduinoindonesia.id](https://t.me/edukasielektronika)
+- [KelasRobot.com](https://t.me/kelasrobotgrup)
+- [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
+
+[back to the 🔝](#list)
+
+### iOS
+
+- [iKaskus](https://t.me/ikaskus)
+- [iNitial E](http://t.me/initialestore)
+
+[back to the 🔝](#list)
+
+### Jokes
+
+- [Programmer Jokes](https://t.me/programmerjokes)
+
+[back to the 🔝](#list)
+
+### Linux
+
+- [Arch Linux Indonesia](https://t.me/ArchLinuxID)
+- [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
+- [BlankOn Linux](https://t.me/BlankOnLinux)
+- [CentOS.ID](https://t.me/centosID)
+- [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
+- [Dotfiles Indonesia](https://t.me/dotfiles_id)
+- [Elementary OS Indonesia](https://t.me/elementaryID)
+- [Fedora Indonesia](https://t.me/FedoraID)
+- [GNOME Indonesia](https://t.me/gnomeid)
+- [Kali Linux Indonesia](https://t.me/KaliLinuxID)
+- [KDE Indonesia](https://t.me/kdeid)
+- [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
+- [Komunitas Linux Jember](https://t.me/linuxjember)
+- [Linux From Scratch ID](https://t.me/lfsid)
+- [Linux Mint Indonesia](https://t.me/mint_id)
+- [Manjaro Indonesia](https://t.me/manjaroID)
+- [openSUSE Indonesia](https://t.me/openSUSE_ID)
+- [Paguyuban Linux Solo](https://t.me/linuxsolo)
+- [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
+- [Ubuntu Indonesia](https://t.me/ubuntu_id)
+
+[back to the 🔝](#list)
+
+### Lowongan Kerja
+
+- [Freelance Project IT](https://t.me/freelance_01)
+- [Freelancer - Indonesia](https://t.me/freelancerID)
+- [Kotakode Jobs](https://t.me/kotakodejobs)
+- [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
+- [Loker Jakarta](https://t.me/loker_jakarta)
+- [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
+- [Rails Indonesia Loker](https://t.me/RailsID_LOKER)
+- [Ruby Indonesia Loker](https://t.me/RubyID_LOKER)
+
+[back to the 🔝](#list)
+
+### macOS
+
+- [macOS Indonesia](https://t.me/macOSID)
+
+[back to the 🔝](#list)
+
+### Microservice
+
+- [Microservice Architecture](https://t.me/msarchitecture)
+- [Microservice Indonesia](https://t.me/microservices_id)
+
+[back to the 🔝](#list)
+
+### Mikrotik
+
+- [Mikrotik Indonesia](https://t.me/indonesiamikrotik)
+
+[back to the 🔝](#list)
+
+### Office
+
+- [Excel Indonesia](https://t.me/excelid)
+- [Libreoffice Indonesia](https://t.me/BelajarLibreOfficeIndonesia)
+
+[back to the 🔝](#list)
+
+### Open Source
+
+- [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
+
+[back to the 🔝](#list)
 
 ### Programming Language
 
 - **.NET**
 
+  - [.NET Indonesia](https://t.me/dotnetusergroup)  
   - [One .NET Indonesia](https://t.me/dotnetcore_id)
-  - [.NET Indonesia](https://t.me/dotnetusergroup)
   - [Xamarin Indonesia](https://t.me/xamarinindonesia)
 
 - **Android**
 
   - [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
   - [ADN (Android Developer Nasional)](https://t.me/androiddevelopernasional)
-  - [Android Developer Lombok](https://t.me/android_lombok)
   - [Android - Teknorial.com](https://t.me/teknorialcom)
+  - [Android Developer Lombok](https://t.me/android_lombok)
   - [AndroidDev Surabaya](https://t.me/androiddevsurabaya)
   - [Belajar Bareng Android Jakarta](https://t.me/BelajarBarengAndroid)
   - [Jetpack Compose Indonesia](https://t.me/jcomposeindonesia)
@@ -63,8 +354,8 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - **Golang**
 
   - [Golang Indonesia](https://t.me/golangID)
-  - [Golang Surabaya](https://t.me/golangSurabaya)
   - [Golang Jogja](https://t.me/golangjogja)
+  - [Golang Surabaya](https://t.me/golangSurabaya)
 
 - **Haskell**
 
@@ -87,9 +378,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Jogja Js](https://t.me/jogjajs)
   - [Lombok Js](https://t.me/lombokjs)
   - [NativeScript ID](https://t.me/nativescript_id)
+  - [Nestjs Indonesia](https://t.me/nestjs_indonesia)
   - [Next.js Indonesia](https://t.me/nextjs_id)
   - [Nodejs Indonesia](https://t.me/nodejsid)
-  - [Nestjs Indonesia](https://t.me/nestjs_indonesia)
   - [NuxtJs Indonesia](https://t.me/nuxtjsid)
   - [Polymer Indonesia](https://t.me/polymer_id)
   - [React Indonesia](https://t.me/react_idn)
@@ -127,9 +418,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Flask ID](https://t.me/flaskid)
   - [Lombok.py](https://t.me/lombok_py)
   - [mks.py](https://t.me/mkspy)
-  - [Python](https://t.me/Python)
-  - [Python ID](https://t.me/pythonID)
   - [Python ID Jogja](https://t.me/pyjogja)
+  - [Python ID](https://t.me/pythonID)
+  - [Python](https://t.me/Python)
   - [Surabaya.py](https://t.me/surabayadotpy)
 
 - **Ruby**
@@ -150,184 +441,16 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - **SAP ABAP Indonesia**
   - [SAP-ABAP Indonesia](https://t.me/sapabapindonesia)
 
-### BLOCKCHAIN
+[back to the 🔝](#list)
 
-- [Friends with Blockchain](https://t.me/friendswithblockchain)
-- [Hyperledger (Enterprise) Blockchain Indonesia](https://t.me/hl_id)
-- [Nusantara Chain (Nuchain)](https://t.me/nusantarachain)
+### Science
 
-### DATABASE
+- **Geographic Information System and Remote Sensing**
+  - [GIS Indonesia](https://t.me/gis_id)
+  - [Leaflet.js Indonesia](https://t.me/leafletid)
+  - [QGIS Indonesia](https://t.me/qgisindonesia)
 
-- **Microsoft SQL Server**
-
-  - [SQL Server Indonesia](https://t.me/sqlserverid)
-
-- **MongoDB**
-
-  - [MongoDB Indonesia](https://t.me/MongoDB_ID)
-
-- **MySQL**
-
-  - [MySQL Indonesia](https://t.me/mysqlid)
-
-- **PostgreSQL**
-  - [PostgreSQL Indonesia](https://t.me/postgresql_id)
-
-### FIREBASE
-
-- [Firebase Indonesia](https://t.me/firebaseindonesia)
-
-### Design
-
-- [UI/UX Indonesia](https://t.me/UiuxIndo)
-- [UXiD Lombok](https://t.me/uxidlombok)
-- [Sinau Desain](https://t.me/SinauDesain)
-- [GimpScape ID](https://t.me/gimpscape)
-- [Uplabs Indonesia](https://t.me/uplabsindonesia)
-- [Photoshop Community ID](https://t.me/photoshopcommunity_id)
-- [Kumpulan Grub Adobe](https://t.me/grupadobelainnya)
-
-### IOT
-
-- [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
-- [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
-- [arduinoindonesia.id](https://t.me/edukasielektronika)
-- [KelasRobot.com](https://t.me/kelasrobotgrup)
-
-### Jokes
-
-- [Programmer Jokes](https://t.me/programmerjokes)
-
-### DevOps
-
-- [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
-- [Docker.id](https://t.me/dockeridn)
-- [IDDevOps](https://t.me/IDDevOps)
-- [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
-- [OKD Indonesia](https://t.me/okdindonesia)
-
-### SQA
-
-- [Indonesian Software Quality Assurace](https://t.me/sqa_id)
-- [ISQA Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
-- [Malang Quality Assurace](https://t.me/qamalang)
-
-### Cloud Computing Services
-
-- [#JuaraGCP](https://t.me/JuaraGCP)
-- [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
-- [AWS Analytics User Group Indonesia](https://t.me/AWSDataUserGroupID)
-- [Azure ID](https://t.me/azureindo)
-- [GCP User Group Indonesia](https://t.me/GCPUserID)
-- [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
-
-### Cloud Infrastructure
-
-- [OpenStack Indonesia](https://t.me/openstackindo)
-
-### Data PlayGround
-
-- [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
-- [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
-- [Big Data Official Group](https://t.me/idbigdata)
-- [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
-- [Data Scientist Indonesia](https://t.me/datascienceindonesia)
-- [Machine Learning Indonesia](https://t.me/machinelearningid)
-- [Machine Learning ID Lombok](https://t.me/machinelearninglombok)
-- [Natural Language ID](https://t.me/nlp_lounge)
-- [PyTorch Indonesia](https://t.me/pytorchid)
-- [ScrapeID](https://t.me/ScrapeID)
-- [TensorFlow Indonesia](https://t.me/tensorflowid)
-
-### Development
-
-- [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
-- [Belajar Golang MariaDB](https://t.me/BelajarGolangMariaDB)
-- [Belajar HTML](https://t.me/belajarhtmlcss)
-- [Bogor Developers](https://t.me/BogorDev)
-- [Bot Telegram API](https://t.me/TgBotID)
-- [Borneo Koding](https://t.me/borneokoding)
-- [Cilegon Developer](https://t.me/cilegondev)
-- [CirebonDev](https://t.me/crbdev)
-- [[c]oretan Script](https://t.me/cScript)
-- [Femalegeek](https://t.me/femalegeek)
-- [Free Kelas Github](https://t.me/freekelasgithub)
-- [Frontend Developer Indonesia](https://t.me/FrontEndID)
-- [Gresik Dev](https://t.me/gresikdev)
-- [IAM Indonesia](https://t.me/IAMIndonesia)
-- [IDStack](https://t.me/idstack)
-- [Info Event Teknologi](https://t.me/eventteknologi)
-- [Infotech Programmer](https://t.me/infotechprogrammer)
-- [IT Nusantara](https://t.me/ITNusantara)
-- [JemberDev](https://t.me/DjemberDev)
-- [Kabayan Coding](https://t.me/kabayan_coding)
-- [Kelas Mobile Malang](https://t.me/KelasMobileMalang)
-- [Komunitas Backend Developer](https://t.me/BackEndID)
-- [Komunitas Belajar Koding](https://t.me/komunitasbk)
-- [Kongkow IT Medan](https://t.me/kongkowITMedan)
-- [Kongkow IT Pekanbaru](https://t.me/kongkowITpekanbaru)
-- [Kotakode](https://t.me/kotakodebetachat)
-- [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
-- [Pasuruan Dev](https://t.me/pasuruandev)
-- [Programmer Lokal](https://t.me/programmerlokal)
-- [Programmer Semarang Raya](https://t.me/programersemarangraya)
-- [RantauDev](https://t.me/rantaudev)
-- [Roacode](https://t.me/Roacode)
-- [Santren Koding](https://t.me/santrenkoding)
-- [SARCCOM Universe](https://t.me/sarccomuniverse)
-- [Sidoarjo Dev](https://t.me/sidoarjodev)
-- [SinauDev - Sinau Development](https://t.me/sinaudev)
-- [Software Engineer Indonesia](https://t.me/soft_eng_id)
-- [SparkAR Indonesia](https://t.me/sparkarindonesia)
-- [Surabaya Dev](https://t.me/surabayadev)
-- [LamonganDev](https://t.me/lamongandev)
-- [Taman Kode-Kode](https://t.me/tamankodekode)
-- [Tailwind Indonesia](https://t.me/TailwindID)
-- [Teknologi Umum](https://t.me/teknologi_umum_v2)
-- [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
-- [Vim Indonesia](https://t.me/VimID)
-- [WordPress](https://t.me/idwordpress)
-- [Channel Otodidak Pemrograman](https://t.me/otodidak_ngoding)
-- [Kulkul.tech Community - Meetup and Dev Community](https://t.me/kulkultech)
-- [Belajar Coding Bareng](https://t.me/BelajarCoding)
-- [codingfess](https://t.me/codingfess)
-- [Komunitas RPA Indonesia](https://t.me/KomunitasRPAIndonesia)
-
-### Microservice
-
-- [Microservice Architecture](https://t.me/msarchitecture)
-- [Microservice Indonesia](https://t.me/microservices_id)
-
-### LINUX
-
-- [Arch Linux Indonesia](https://t.me/ArchLinuxID)
-- [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
-- [BlankOn Linux](https://t.me/BlankOnLinux)
-- [CentOS.ID](https://t.me/centosID)
-- [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
-- [Dotfiles Indonesia](https://t.me/dotfiles_id)
-- [Elementary OS Indonesia](https://t.me/elementaryID)
-- [Fedora Indonesia](https://t.me/FedoraID)
-- [GNOME Indonesia](https://t.me/gnomeid)
-- [Kali Linux Indonesia](https://t.me/KaliLinuxID)
-- [KDE Indonesia](https://t.me/kdeid)
-- [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
-- [Komunitas Linux Jember](https://t.me/linuxjember)
-- [Linux Mint Indonesia](https://t.me/mint_id)
-- [Manjaro Indonesia](https://t.me/manjaroID)
-- [openSUSE Indonesia](https://t.me/openSUSE_ID)
-- [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
-- [Ubuntu Indonesia](https://t.me/ubuntu_id)
-- [Paguyuban Linux Solo](https://t.me/linuxsolo)
-- [Linux From Scratch ID](https://t.me/lfsid)
-
-### BSD
-
-- [Laskar Setan Merah - Sharing All About FreeBSD](https://t.me/setanmerahID)
-
-### Mikrotik
-
-- [Mikrotik Indonesia](https://t.me/indonesiamikrotik)
+[back to the 🔝](#list)
 
 ### Security
 
@@ -338,53 +461,15 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [OSINT Indonesia](https://t.me/OSINT_ID)
 - [Reversing.ID](https://t.me/reversingid)
 
-### Windows
+[back to the 🔝](#list)
 
-- [PegelWindows](https://t.me/pegelwindows)
-- [Windows 10 Community ID](https://t.me/WinTenGroup)
-- [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
+### Software Quality Assurance (SQA)
 
-### MacOS
+- [Indonesian Software Quality Assurance](https://t.me/sqa_id)
+- [ISQA Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
+- [Malang Quality Assurance](https://t.me/qamalang)
 
-- [macOS Indonesia](https://t.me/macOSID)
-
-### iOS
-
-- [iKaskus](https://t.me/ikaskus)
-- [iNitial E](http://t.me/initialestore)
-
-### Office
-
-- [Excel Indonesia](https://t.me/excelid)
-- [Libreoffice Indonesia](https://t.me/BelajarLibreOfficeIndonesia)
-
-### Tentang Telegram
-
-- [Telegram beta](https://t.me/tgbeta)
-- [Telegram Themes](https://t.me/themeschannel)
-- [Tentang Telegram](https://t.me/tentangtelegram)
-
-### Open Source
-
-- [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
-
-### Lowongan Kerja
-
-- [Freelancer - Indonesia](https://t.me/freelancerID)
-- [Freelance Project IT](https://t.me/freelance_01)
-- [Kotakode Jobs](https://t.me/kotakodejobs)
-- [LOKER DEVELOPER/PROGRAMMER](https://t.me/LokerDeveloper)
-- [Loker Jakarta](https://t.me/loker_jakarta)
-- [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
-- [Rails Indonesia Loker](https://t.me/RailsID_LOKER)
-- [Ruby Indonesia Loker](https://t.me/RubyID_LOKER)
-
-### Game Development
-
-- [Indonesian GDevelop](https://t.me/GDevelopID)
-- [Komunitas Godot Indonesia](https://t.me/godot_indonesia)
-- [Lombok Games Developers (LGD)](https://t.me/lombokgamedev)
-- [GAMERANG - Game Developer Semarang](https://t.me/gamerang)
+[back to the 🔝](#list)
 
 ### Startup
 
@@ -392,16 +477,29 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
 - [Startup Weekend Indonesia](https://t.me/startupweekendindonesia)
 
-### Science
+[back to the 🔝](#list)
 
-- **Geographic Information System and Remote Sensing**
-  - [GIS Indonesia](https://t.me/gis_id)
-  - [QGIS Indonesia](https://t.me/qgisindonesia)
-  - [Leaflet.js Indonesia](https://t.me/leafletid)
+### Tentang Telegram
+
+- [Telegram beta](https://t.me/tgbeta)
+- [Telegram Themes](https://t.me/themeschannel)
+- [Tentang Telegram](https://t.me/tentangtelegram)
+
+[back to the 🔝](#list)
+
+### Windows
+
+- [PegelWindows](https://t.me/pegelwindows)
+- [Windows 10 Community ID](https://t.me/WinTenGroup)
+- [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
+
+---
 
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+---
 
 ## Listed by _Hendi Santika_
 
@@ -412,4 +510,4 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Hendi Santika](https://github.com/hendisantika) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Hendi Santika](https://github.com/hendisantika) has waived all copyright and related or neighbouring rights to this work.
