@@ -2,8 +2,12 @@
 
 A list of awesome Indonesian groups related to a programming language on Telegram.
 
+<details>
+<summary>
+
 ## List
-  - [a](#a)
+</summary>
+
   - [Blockchain](#blockchain)
   - [Cloud Computing Services](#cloud-computing-services)
   - [Cloud Infrastructure](#cloud-infrastructure)
@@ -32,27 +36,28 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Startup](#startup)
   - [Tentang Telegram](#tentang-telegram)
   - [Windows](#windows)
+</details>
 
 [back to the 🔝](#list)
 
 <details>
 <summary>
 
-### A
-</summary>
-
-- [a](google.com)
-</details>
-
 ### Blockchain
+</summary>
 
 - [Friends with Blockchain](https://t.me/friendswithblockchain)
 - [Hyperledger (Enterprise) Blockchain Indonesia](https://t.me/hl_id)
 - [Nusantara Chain (Nuchain)](https://t.me/nusantarachain)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Cloud Computing Services
+</summary>
 
 - [#JuaraGCP](https://t.me/JuaraGCP)
 - [AWS Analytics User Group Indonesia](https://t.me/AWSDataUserGroupID)
@@ -60,16 +65,26 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Azure ID](https://t.me/azureindo)
 - [GCP User Group Indonesia](https://t.me/GCPUserID)
 - [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
+</details>
 
 [back to the 🔝](#list)
+
+<details>
+<summary>
 
 ### Cloud Infrastructure
+</summary>
 
 - [OpenStack Indonesia](https://t.me/openstackindo)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Data Playground
+</summary>
 
 - [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
 - [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
@@ -82,10 +97,15 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [PyTorch Indonesia](https://t.me/pytorchid)
 - [ScrapeID](https://t.me/ScrapeID)
 - [TensorFlow Indonesia](https://t.me/tensorflowid)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Database
+</summary>
 
 - **Microsoft SQL Server**
 
@@ -101,10 +121,15 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - **PostgreSQL**
   - [PostgreSQL Indonesia](https://t.me/postgresql_id)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Design
+</summary>
 
 - [GimpScape ID](https://t.me/gimpscape)
 - [Kumpulan Grub Adobe](https://t.me/grupadobelainnya)
@@ -113,10 +138,15 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [UI/UX Indonesia](https://t.me/UiuxIndo)
 - [Uplabs Indonesia](https://t.me/uplabsindonesia)
 - [UXiD Lombok](https://t.me/uxidlombok)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Development
+</summary>
 
 - [[c]oretan Script](https://t.me/cScript)
 - [Belajar Coding Bareng](https://t.me/BelajarCoding)
@@ -169,63 +199,103 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Teknologi Umum](https://t.me/teknologi_umum_v2)
 - [Vim Indonesia](https://t.me/VimID)
 - [WordPress](https://t.me/idwordpress)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### DevOps
+</summary>
 
 - [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
 - [Docker.id](https://t.me/dockeridn)
 - [IDDevOps](https://t.me/IDDevOps)
 - [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
 - [OKD Indonesia](https://t.me/okdindonesia)
+</details>
 
 [back to the 🔝](#list)
+
+<details>
+<summary>
 
 ### Firebase
+</summary>
 
 - [Firebase Indonesia](https://t.me/firebaseindonesia)
+</details>
 
 [back to the 🔝](#list)
+
+<details>
+<summary>
 
 ### FreeBSD
+</summary>
 
 - [Laskar Setan Merah - Sharing All About FreeBSD](https://t.me/setanmerahID)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Game Development
+</summary>
 
 - [GAMERANG - Game Developer Semarang](https://t.me/gamerang)
 - [Indonesian GDevelop](https://t.me/GDevelopID)
 - [Komunitas Godot Indonesia](https://t.me/godot_indonesia)
 - [Lombok Games Developers (LGD)](https://t.me/lombokgamedev)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Internet of Things (IoT)
+</summary>
 
 - [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
 - [arduinoindonesia.id](https://t.me/edukasielektronika)
 - [KelasRobot.com](https://t.me/kelasrobotgrup)
 - [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### iOS
+</summary>
 
 - [iKaskus](https://t.me/ikaskus)
 - [iNitial E](http://t.me/initialestore)
+</details>
 
 [back to the 🔝](#list)
+
+<details>
+<summary>
 
 ### Jokes
+</summary>
 
 - [Programmer Jokes](https://t.me/programmerjokes)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Linux
+</summary>
 
 - [Arch Linux Indonesia](https://t.me/ArchLinuxID)
 - [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
@@ -247,10 +317,15 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Paguyuban Linux Solo](https://t.me/linuxsolo)
 - [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
 - [Ubuntu Indonesia](https://t.me/ubuntu_id)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Lowongan Kerja
+</summary>
 
 - [Freelance Project IT](https://t.me/freelance_01)
 - [Freelancer - Indonesia](https://t.me/freelancerID)
@@ -260,42 +335,72 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)
 - [Rails Indonesia Loker](https://t.me/RailsID_LOKER)
 - [Ruby Indonesia Loker](https://t.me/RubyID_LOKER)
+</details>
 
 [back to the 🔝](#list)
+
+<details>
+<summary>
 
 ### macOS
+</summary>
 
 - [macOS Indonesia](https://t.me/macOSID)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Microservice
+</summary>
 
 - [Microservice Architecture](https://t.me/msarchitecture)
 - [Microservice Indonesia](https://t.me/microservices_id)
+</details>
 
 [back to the 🔝](#list)
+
+<details>
+<summary>
 
 ### Mikrotik
+</summary>
 
 - [Mikrotik Indonesia](https://t.me/indonesiamikrotik)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Office
+</summary>
 
 - [Excel Indonesia](https://t.me/excelid)
 - [Libreoffice Indonesia](https://t.me/BelajarLibreOfficeIndonesia)
+</details>
 
 [back to the 🔝](#list)
+
+<details>
+<summary>
 
 ### Open Source
+</summary>
 
 - [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Programming Language
+</summary>
 
 - **.NET**
 
@@ -440,19 +545,29 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Typescript Indonesia](https://t.me/TypescriptIndonesia)
 - **SAP ABAP Indonesia**
   - [SAP-ABAP Indonesia](https://t.me/sapabapindonesia)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Science
+</summary>
 
 - **Geographic Information System and Remote Sensing**
   - [GIS Indonesia](https://t.me/gis_id)
   - [Leaflet.js Indonesia](https://t.me/leafletid)
   - [QGIS Indonesia](https://t.me/qgisindonesia)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Security
+</summary>
 
 - [DevSecOps Indonesia](https://t.me/DevSecOpsIndonesia)
 - [ForensicaID](https://t.me/ForensicaID)
@@ -460,46 +575,65 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Orang Siber Indonesia](https://t.me/orangsiber)
 - [OSINT Indonesia](https://t.me/OSINT_ID)
 - [Reversing.ID](https://t.me/reversingid)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Software Quality Assurance (SQA)
+</summary>
 
 - [Indonesian Software Quality Assurance](https://t.me/sqa_id)
 - [ISQA Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
 - [Malang Quality Assurance](https://t.me/qamalang)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Startup
+</summary>
 
 - [Cafe Startup 140315](https://t.me/cafestartup)
 - [STARTUP INDONESIA on TELEGRAM](https://t.me/startupindonesia)
 - [Startup Weekend Indonesia](https://t.me/startupweekendindonesia)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Tentang Telegram
+</summary>
 
 - [Telegram beta](https://t.me/tgbeta)
 - [Telegram Themes](https://t.me/themeschannel)
 - [Tentang Telegram](https://t.me/tentangtelegram)
+</details>
 
 [back to the 🔝](#list)
 
+<details>
+<summary>
+
 ### Windows
+</summary>
 
 - [PegelWindows](https://t.me/pegelwindows)
 - [Windows 10 Community ID](https://t.me/WinTenGroup)
 - [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
+</details>
 
----
+[back to the 🔝](#list)
 
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
----
 
 ## Listed by _Hendi Santika_
 
