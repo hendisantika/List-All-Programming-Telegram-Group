@@ -2,7 +2,7 @@
 
 A list of awesome Indonesian groups related to a programming language on Telegram.
 
-<details>
+<details open>
 <summary>
 
 ## List
