@@ -537,10 +537,6 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Rails Indonesia](https://t.me/RailsID)
   - [Ruby Indonesia](https://t.me/ruby_id)
 
-- **Rust**
-
-  - [Rust Indonesia](https://t.me/rustindonesia)
-
 - **Swift**
 
   - [Swift Indonesia](https://t.me/swiftID)
