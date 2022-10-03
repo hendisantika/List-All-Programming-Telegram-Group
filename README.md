@@ -539,7 +539,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - **Rust**
 
-  - [Rust Indonesia](https://t.me/rustacean_id)
+  - [Rust Indonesia](https://t.me/rustindonesia)
 
 - **Swift**
 
