@@ -393,7 +393,8 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 ### Open Source
 </summary>
-
+- [Programming Chat](https://t.me/DrvYarGp)
+- [Programming Chat (Only English)](https://t.me/DrvYarEn)
 - [OSINT Indonesia](https://t.me/OSINT_Indonesia)
 - [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
 </details>
