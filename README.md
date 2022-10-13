@@ -99,6 +99,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Natural Language ID](https://t.me/nlp_lounge)
 - [PyTorch Indonesia](https://t.me/pytorchid)
 - [Scrape ID](https://t.me/ScrapeID)
+- [Tableau Professionals](https://t.me/TableauProfessionals)
 - [TensorFlow Indonesia](https://t.me/tensorflowid)
 </details>
 
@@ -216,7 +217,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
 - [Docker Indonesia](https://t.me/dockeridn)
 - [IDDevOps](https://t.me/IDDevOps)
-- [Kubernetes Indonesia](https://t.me/kubernetesindonesia)
+- [Kubernetes & Cloud Native Indonesia](https://t.me/kubernetesindonesia)
 - [OKD Indonesia](https://t.me/okdindonesia)
 </details>
 
