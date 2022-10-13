@@ -117,6 +117,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - **MongoDB**
 
   - [MongoDB Indonesia](https://t.me/MongoDB_ID)
+  - [MongoDB User Group](https://t.me/mongo_db)
 
 - **MySQL**
 
@@ -428,7 +429,6 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - **Agile**
 
   - [Agile Circle Indonesia](https://t.me/agilecirclesid)
-  - [Agile Indonesia](https://t.me/agileindonesia)
 
 - **Assembly**
 
