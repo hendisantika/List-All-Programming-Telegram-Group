@@ -533,6 +533,8 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Python ID Jogja](https://t.me/pyjogja)
   - [Python Indonesia](https://t.me/pythonID)
   - [Python](https://t.me/Python)
+  - [Pythonlearnerr](https://t.me/pythonlearnerr)
+  - [Python / Django Learners](https://t.me/python_learners_group)
   - [Surabaya.py](https://t.me/surabayapy)
 
 - **Ruby**
