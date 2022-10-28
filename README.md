@@ -311,6 +311,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Elementary OS Indonesia](https://t.me/elementaryID)
 - [Fedora Indonesia](https://t.me/FedoraID)
 - [GNOME Indonesia](https://t.me/gnomeid)
+- [GNU/Weeb](https://t.me/GNUWeeb)
 - [Kali Linux Indonesia](https://t.me/KaliLinuxID)
 - [KDE Indonesia](https://t.me/kdeid)
 - [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
@@ -410,7 +411,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - **.NET**
 
-  - [.NET Indonesia](https://t.me/dotnetusergroup)  
+  - [.NET Indonesia](https://t.me/dotnetusergroup)
   - [One .NET Indonesia](https://t.me/dotnetcore_id)
   - [Xamarin Indonesia](https://t.me/xamarinindonesia)
 
