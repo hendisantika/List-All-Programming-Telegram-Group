@@ -78,6 +78,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 </summary>
 
 - [OpenStack Indonesia](https://t.me/openstackindo)
+- [Ceph.id](https://t.me/cephid)
 </details>
 
 [back to the 🔝](#list)
