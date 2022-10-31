@@ -596,6 +596,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Orang Siber Indonesia](https://t.me/orangsiber)
 - [OSINT Indonesia](https://t.me/OSINT_ID)
 - [Reversing.ID](https://t.me/reversingid)
+- [Security.ID](https://t.me/CyberSecurity_ID)
 - [HackTheBox Indonesia](https://t.me/hacktheboxindo)
 </details>
 
