@@ -318,6 +318,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Komunitas Linux Jember](https://t.me/linuxjember)
 - [Linux From Scratch ID](https://t.me/lfsid)
 - [Linux Mint Indonesia](https://t.me/mint_id)
+- [Linux Community ID](https://t.me/LinuxGroupID)
 - [Manjaro Indonesia](https://t.me/manjaroID)
 - [openSUSE Indonesia](https://t.me/openSUSE_ID)
 - [Paguyuban Linux Solo](https://t.me/linuxsolo)
