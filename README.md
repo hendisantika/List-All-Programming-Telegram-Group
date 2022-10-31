@@ -306,6 +306,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - [Arch Linux Indonesia](https://t.me/ArchLinuxID)
 - [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
+- [Belajar Linux](https://t.me/belajarlinuxbareng)
 - [BlankOn Linux](https://t.me/BlankOnLinux)
 - [CentOS.ID](https://t.me/centosID)
 - [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
@@ -658,7 +659,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 </summary>
 
 - [PegelWindows](https://t.me/pegelwindows)
-- [Windows 10 Community ID](https://t.me/WinTenGroup)
+- [Windows Community ID](https://t.me/WinTenGroup)
 - [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
 </details>
 
