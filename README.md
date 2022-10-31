@@ -140,6 +140,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Kumpulan Grub Adobe](https://t.me/grupadobelainnya)
 - [Photoshop Community ID](https://t.me/photoshopcommunity_id)
 - [Sinau Desain](https://t.me/SinauDesain)
+- [Belajar Desain Grafis](https://t.me/belajarngedesain)
 - [UI/UX Indonesia](https://t.me/UiuxIndo)
 - [Uplabs Indonesia](https://t.me/uplabsindonesia)
 - [UXiD Lombok](https://t.me/uxidlombok)
@@ -155,6 +156,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - [[c]oretan Script](https://t.me/cScript)
 - [Belajar Coding Bareng](https://t.me/BelajarCoding)
+- [Belajar Ngoding](https://t.me/belajarngodingbareng)
 - [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
 - [Belajar Golang MariaDB](https://t.me/BelajarGolangMariaDB)
 - [Belajar HTML](https://t.me/belajarhtmlcss)
