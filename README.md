@@ -596,6 +596,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - [DevSecOps Indonesia](https://t.me/DevSecOpsIndonesia)
 - [ForensicaID](https://t.me/ForensicaID)
+- [Hacking Group](https://t.me/Hacker_Indonesia)
 - [IT SECURITY INDONESIA](https://t.me/itsecurityindonesia)
 - [Orang Siber Indonesia](https://t.me/orangsiber)
 - [OSINT Indonesia](https://t.me/OSINT_ID)
