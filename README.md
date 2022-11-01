@@ -294,6 +294,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 ### Jokes
 </summary>
 
+- [Linux memes](https://t.me/linux_memes)
 - [Programmer Jokes](https://t.me/programmerjokes)
 </details>
 
