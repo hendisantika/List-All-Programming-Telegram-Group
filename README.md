@@ -310,6 +310,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Belajar Linux](https://t.me/belajarlinuxbareng)
 - [BlankOn Linux](https://t.me/BlankOnLinux)
 - [CentOS.ID](https://t.me/centosID)
+- [Debian Indonesia](https://t.me/Debianid)
 - [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
 - [Dotfiles Indonesia](https://t.me/dotfiles_id)
 - [Elementary OS Indonesia](https://t.me/elementaryID)
@@ -321,6 +322,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Komunitas GNU/Linux Malang](https://t.me/linuxmalang)
 - [Komunitas Linux Jember](https://t.me/linuxjember)
 - [Linux From Scratch ID](https://t.me/lfsid)
+- [LangitKetujuh ID](https://t.me/langitketujuh_id)
 - [Linux Mint Indonesia](https://t.me/mint_id)
 - [Linux Community ID](https://t.me/LinuxGroupID)
 - [Manjaro Indonesia](https://t.me/manjaroID)
@@ -328,6 +330,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Paguyuban Linux Solo](https://t.me/linuxsolo)
 - [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
 - [Ubuntu Indonesia](https://t.me/ubuntu_id)
+- [Void Linux Indonesia](https://t.me/voidlinux_id)
 </details>
 
 [back to the 🔝](#list)
