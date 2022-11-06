@@ -330,6 +330,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [openSUSE Indonesia](https://t.me/openSUSE_ID)
 - [Paguyuban Linux Solo](https://t.me/linuxsolo)
 - [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
+- [Red Hat Enterprise Linux ID](https://t.me/rhel_id)
 - [Ubuntu Indonesia](https://t.me/ubuntu_id)
 - [Void Linux Indonesia](https://t.me/voidlinux_id)
 </details>
