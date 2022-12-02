@@ -51,6 +51,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Friends with Blockchain](https://t.me/friendswithblockchain)
 - [Hyperledger (Enterprise) Blockchain Indonesia](https://t.me/hl_id)
 - [Nusantara Chain (Nuchain)](https://t.me/nusantarachain)
+- [Official Stacks Chapter Indonesia](https://t.me/stacksindonesia)
 </details>
 
 [back to the 🔝](#list)
