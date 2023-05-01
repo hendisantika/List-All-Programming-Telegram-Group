@@ -506,10 +506,9 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Nestjs Indonesia](https://t.me/nestjs_indonesia)
   - [Next.js Indonesia](https://t.me/nextjs_id)
   - [Nodejs Indonesia](https://t.me/nodejsid)
-  - [NuxtJs Indonesia](https://t.me/nuxtjsid)
   - [Polymer Indonesia](https://t.me/polymer_id)
   - [React Indonesia](https://t.me/react_idn)
-  - [React Native Indonesia](https://t.me/reactnative_id)
+  - [React Native Indonesia](https://t.me/reactnativeindo)
   - [Semarang JS](https://t.me/SemarangJS)
   - [SurabayaJs](https://t.me/surabayajs)
   - [Svelte Indonesia](https://t.me/svelte_id)
@@ -561,6 +560,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - **Typescript**
   - [Typescript Indonesia](https://t.me/TypescriptIndonesia)
+
 - **SAP ABAP Indonesia**
   - [SAP-ABAP Indonesia](https://t.me/sapabapindonesia)
 </details>
