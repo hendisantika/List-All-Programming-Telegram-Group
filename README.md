@@ -209,6 +209,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Taman Kode-Kode](https://t.me/tamankodekode)
 - [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 - [Teknologi Umum](https://t.me/teknologi_umum_v2)
+- [Typescript Indonesia](https://t.me/TypescriptIndonesia)
 - [Vim Indonesia](https://t.me/VimID)
 - [WordPress](https://t.me/idwordpress)
 </details>
