@@ -212,6 +212,8 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Typescript Indonesia](https://t.me/TypescriptIndonesia)
 - [Vim Indonesia](https://t.me/VimID)
 - [WordPress](https://t.me/idwordpress)
+- [Gemar Kode](https://t.me/gemarkode)
+- [!NightCoder](https://t.me/naitocode)
 </details>
 
 [back to the 🔝](#list)
@@ -611,6 +613,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Reversing.ID](https://t.me/reversingid)
 - [Security.ID](https://t.me/CyberSecurity_ID)
 - [HackTheBox Indonesia](https://t.me/hacktheboxindo)
+- [Thecyberswat](https://t.me/thecyberswat)
 </details>
 
 [back to the 🔝](#list)
