@@ -93,6 +93,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
 - [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
+- [Data Engineering Indonesia](https://t.me/dataengineeringid)
 - [Data Scientist Indonesia](https://t.me/datascienceindonesia)
 - [Indonesia AI Forum](https://t.me/IAIForum)
 - [Machine Learning ID](https://t.me/machinelearningid)
