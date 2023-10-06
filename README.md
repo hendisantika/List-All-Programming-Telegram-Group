@@ -560,6 +560,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 </summary>
 
   - [Indonesian Quantum Computing Enthusiasts](https://t.me/idqce)
+  - [Indonesian QML](https://t.me/IDQML)
 </details>
 
 [back to the 🔝](#list)
