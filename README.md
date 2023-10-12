@@ -200,6 +200,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 - [Teknologi Umum](https://t.me/teknologi_umum_v2)
 - [WordPress](https://t.me/idwordpress)
+- [SMKDEV Community](https://t.me/smk_dev)
 </details>
 
 [back to the 🔝](#list)
