@@ -471,6 +471,9 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Golang Indonesia](https://t.me/gophers_id)
   - [Golang Jogja](https://t.me/golangjogja)
   - [Golang Surabaya](https://t.me/golangSurabaya)
+ 
+- **Rust**
+  - [Rust indonesia](https://t.me/rustindonesia)
 
 - **Haskell**
 
