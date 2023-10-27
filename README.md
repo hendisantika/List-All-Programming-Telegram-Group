@@ -632,6 +632,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 ### Text Editor
 </summary>
 
+- [Emacs Indonesia(https://t.me/emacsID)
 - [Vim Indonesia](https://t.me/VimID)
 </details>
 
