@@ -473,7 +473,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Golang Surabaya](https://t.me/golangSurabaya)
  
 - **Rust**
-  - [Rust indonesia](https://t.me/rustindonesia)
+  - [Rust indonesia](No Groups)
 
 - **Haskell**
 
@@ -488,11 +488,10 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Adonis.js Indonesia](https://t.me/adonisid)
   - [Angular Indonesia](https://t.me/AngularID)
   - [Deno Indonesia](https://t.me/deno_id)
-  - [Electron Desktop User Group](https://t.me/electronatom)
+  - [Electron Desktop User Group](No Groups)
   - [Ionic Indonesia](https://t.me/indonesiaionic)
-  - [JakartaJS](https://t.me/jakartajs)
   - [Javascript Indonesia](https://t.me/js_id)
-  - [Jogja Js](https://t.me/jogjajs)
+  - [Jogja Js](jogjajshttps://t.me/)
   - [Lombok Js](https://t.me/lombokjs)
   - [NativeScript ID](https://t.me/nativescript_id)
   - [Nestjs Indonesia](https://t.me/nestjs_indonesia)
