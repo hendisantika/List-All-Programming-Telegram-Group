@@ -303,6 +303,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 </summary>
 
 - [Arch Linux Indonesia](https://t.me/ArchLinuxID)
+- [Artix Linux Indonesia](https://t.me/artixlinux_id)
 - [Belajar GNU/Linux Indonesia](https://t.me/GNULinuxIndonesia)
 - [Belajar Linux](https://t.me/belajarlinuxbareng)
 - [BlankOn Linux](https://t.me/BlankOnLinux)
