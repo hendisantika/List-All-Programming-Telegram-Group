@@ -526,6 +526,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - **Python**
 
+  - [Bandung.py](https://t.me/bandung_py)
   - [Django Indonesia](https://t.me/DjangoID)
   - [FastAPI Indonesia](https://t.me/fastapiid)
   - [Flask ID](https://t.me/flaskid)
