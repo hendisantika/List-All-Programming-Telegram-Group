@@ -552,6 +552,9 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - **Typescript**
   - [Typescript Indonesia](https://t.me/TypescriptIndonesia)
 
+- **Zig**
+  - [Bun Indonesia](https://t.me/bun_id)
+
 - **SAP ABAP Indonesia**
   - [SAP-ABAP Indonesia](https://t.me/sapabapindonesia)
 </details>
