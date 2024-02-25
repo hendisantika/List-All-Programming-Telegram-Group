@@ -493,7 +493,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Electron Desktop User Group](No Groups)
   - [Ionic Indonesia](https://t.me/indonesiaionic)
   - [Javascript Indonesia](https://t.me/js_id)
-  - [Jogja Js](jogjajshttps://t.me/)
+  - [Jogja Js](https://t.me/jogjajs)
   - [Lombok Js](https://t.me/lombokjs)
   - [NativeScript ID](https://t.me/nativescript_id)
   - [Nestjs Indonesia](https://t.me/nestjs_indonesia)
