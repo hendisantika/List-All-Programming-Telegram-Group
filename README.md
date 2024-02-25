@@ -213,11 +213,11 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 
 - [Ansible Indonesia](https://t.me/ansibleid)
 - [Cloud Computing Indonesia](https://t.me/cloudcomputingindonesia)
+- [DevOps Jogja](https://t.me/devopsjogja)
 - [Docker Indonesia](https://t.me/dockeridn)
 - [IDDevOps](https://t.me/IDDevOps)
 - [Kubernetes & Cloud Native Indonesia](https://t.me/kubernetesindonesia)
 - [OKD Indonesia](https://t.me/okdindonesia)
-- [DevOps Jogja](https://t.me/devopsjogja)
 </details>
 
 [back to the 🔝](#list)
@@ -475,7 +475,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Golang Surabaya](https://t.me/golangSurabaya)
  
 - **Rust**
-  - [Rust indonesia](https://t.me/+QuFnj5ZOSGCSbJYG)
+  - [Rust indonesia](https://t.me/rustacean_id)
 
 - **Haskell**
 
