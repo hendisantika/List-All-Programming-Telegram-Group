@@ -217,6 +217,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [IDDevOps](https://t.me/IDDevOps)
 - [Kubernetes & Cloud Native Indonesia](https://t.me/kubernetesindonesia)
 - [OKD Indonesia](https://t.me/okdindonesia)
+- [DevOps Jogja](https://t.me/devopsjogja)
 </details>
 
 [back to the 🔝](#list)
@@ -474,7 +475,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
   - [Golang Surabaya](https://t.me/golangSurabaya)
  
 - **Rust**
-  - [Rust indonesia](No Groups)
+  - [Rust indonesia](https://t.me/+QuFnj5ZOSGCSbJYG)
 
 - **Haskell**
 
