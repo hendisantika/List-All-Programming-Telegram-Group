@@ -324,6 +324,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Linux Mint Indonesia](https://t.me/mint_id)
 - [Linux Community ID](https://t.me/LinuxGroupID)
 - [Manjaro Indonesia](https://t.me/manjaroID)
+- [NixOS Indonesia](https://t.me/nixosid)
 - [openSUSE Indonesia](https://t.me/openSUSE_ID)
 - [Paguyuban Linux Solo](https://t.me/linuxsolo)
 - [ParrotSec Indonesia](https://t.me/parrotsecurityindonesia)
