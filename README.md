@@ -383,6 +383,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 </summary>
 
 - [Mikrotik Indonesia](https://t.me/officialmikrotik)
+- [Gatcha.org](https://t.me/trick_ngirit)
 </details>
 
 [back to the 🔝](#list)
