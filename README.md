@@ -671,7 +671,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 </summary>
 
 - [PegelWindows](https://t.me/pegelwindows)
-- [Windows Community ID](https://t.me/WinTenGroup)
+- [TeknoLugu](https://t.me/TeknoLugu) (Formerly Windows Community ID)
 - [WINDOWS SERVER INDONESIA](https://t.me/WindServID)
 </details>
 
