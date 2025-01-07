@@ -263,9 +263,9 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 ### Internet of Things (IoT)
 </summary>
 
-- [Arduino Indonesian Community](https://t.me/ArduinoIndonesianCommunity)
-- [arduinoindonesia.id](https://t.me/edukasielektronika)
 - [KelasRobot.com](https://t.me/kelasrobotgrup)
+- [Arduino Indonesian Community (GAK ADA ADMIN, LEBIH BANYAK SPAM!)](https://t.me/ArduinoIndonesianCommunity)
+- [arduinoindonesia.id](https://t.me/edukasielektronika)
 - [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
 </details>
 
