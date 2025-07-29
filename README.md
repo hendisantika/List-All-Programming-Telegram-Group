@@ -154,7 +154,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 ### Development
 </summary>
 
-- [[c]oretan Script](https://t.me/cScript)
+- [BandungDev](https://t.me/bandungdevcom)
 - [Belajar Coding Bareng](https://t.me/BelajarCoding)
 - [Belajar Ngoding](https://t.me/belajarngodingbareng)
 - [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
@@ -166,6 +166,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Otodidak Pemrograman](https://t.me/otodidak_ngoding) (Channel)
 - [CirebonDev](https://t.me/crbdev)
 - [codingfess](https://t.me/codingfess)
+- [[c]oretan Script](https://t.me/cScript)
 - [Femalegeek](https://t.me/femalegeek)
 - [Free Kelas Github](https://t.me/freekelasgithub)
 - [Frontend Developer Indonesia](https://t.me/FrontEndID)
