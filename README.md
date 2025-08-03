@@ -218,6 +218,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [IDDevOps](https://t.me/IDDevOps)
 - [Kubernetes & Cloud Native Indonesia](https://t.me/kubernetesindonesia)
 - [OKD Indonesia](https://t.me/okdindonesia)
+- [DevOps Jogja](https://t.me/devopsjogja)
 </details>
 
 [back to the 🔝](#list)
