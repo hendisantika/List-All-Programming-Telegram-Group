@@ -314,7 +314,7 @@ A list of awesome Indonesian groups related to a programming language on Telegra
 - [Deepin Linux Indonesia](https://t.me/deepin_indonesia)
 - [Dotfiles Indonesia](https://t.me/dotfiles_id)
 - [Elementary OS Indonesia](https://t.me/elementaryID)
-- [Fedora Indonesia](https://t.me/FedoraID)
+- [Fedora Indonesia](https://t.me/idfedoracommunity)
 - [GNOME Indonesia](https://t.me/gnomeid)
 - [GNU/Weeb](https://t.me/GNUWeeb)
 - [Kali Linux Indonesia](https://t.me/KaliLinuxID)
